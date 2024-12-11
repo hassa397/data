@@ -1,0 +1,171 @@
+Regions Code,Regions,Category,Observation
+E12000001,North East,Accommodation & Food Service Activities,58883
+E12000001,North East,Administrative & Support Service Activities,144273
+E12000001,North East,"Agriculture, Forestry & Fishing",7908
+E12000001,North East,"Arts, Entertainment & Recreation",20518
+E12000001,North East,Education,116552
+E12000001,North East,"Electricity, Gas, Steam & Air Conditioning Supply",10624
+E12000001,North East,Financial & Insurance Activities,28043
+E12000001,North East,Human Health & Social Work Activities,83073
+E12000001,North East,Information & Communication,35678
+E12000001,North East,Manufacturing,77624
+E12000001,North East,Mining & Quarrying,6870
+E12000001,North East,"Professional, Scientific & Technical Activities",52339
+E12000001,North East,Public Administration & Defence; Compulsory Social Security,112487
+E12000001,North East,Real Estate Activities,16311
+E12000001,North East,Transport & Storage,52919
+E12000001,North East,"Water Supply, Sewerage, Waste & Remediation Activities",8228
+E12000001,North East,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,167490
+E12000002,North West,Accommodation & Food Service Activities,148698
+E12000002,North West,Administrative & Support Service Activities,362767
+E12000002,North West,"Agriculture, Forestry & Fishing",1231
+E12000002,North West,"Arts, Entertainment & Recreation",61781
+E12000002,North West,Education,339764
+E12000002,North West,"Electricity, Gas, Steam & Air Conditioning Supply",9285
+E12000002,North West,Financial & Insurance Activities,100979
+E12000002,North West,Human Health & Social Work Activities,223403
+E12000002,North West,Information & Communication,155958
+E12000002,North West,Manufacturing,238203
+E12000002,North West,Mining & Quarrying,46488
+E12000002,North West,"Professional, Scientific & Technical Activities",132099
+E12000002,North West,Public Administration & Defence; Compulsory Social Security,324407
+E12000002,North West,Real Estate Activities,74905
+E12000002,North West,Transport & Storage,109671
+E12000002,North West,"Water Supply, Sewerage, Waste & Remediation Activities",291657
+E12000002,North West,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,573209
+E12000003,Yorkshire and The Humber,Accommodation & Food Service Activities,107489
+E12000003,Yorkshire and The Humber,Administrative & Support Service Activities,257935
+E12000003,Yorkshire and The Humber,"Agriculture, Forestry & Fishing",1593
+E12000003,Yorkshire and The Humber,"Arts, Entertainment & Recreation",45005
+E12000003,Yorkshire and The Humber,Education,229037
+E12000003,Yorkshire and The Humber,"Electricity, Gas, Steam & Air Conditioning Supply",6982
+E12000003,Yorkshire and The Humber,Financial & Insurance Activities,67583
+E12000003,Yorkshire and The Humber,Human Health & Social Work Activities,163188
+E12000003,Yorkshire and The Humber,Information & Communication,107771
+E12000003,Yorkshire and The Humber,Manufacturing,193509
+E12000003,Yorkshire and The Humber,Mining & Quarrying,48127
+E12000003,Yorkshire and The Humber,"Professional, Scientific & Technical Activities",88411
+E12000003,Yorkshire and The Humber,Public Administration & Defence; Compulsory Social Security,245730
+E12000003,Yorkshire and The Humber,Real Estate Activities,46238
+E12000003,Yorkshire and The Humber,Transport & Storage,75025
+E12000003,Yorkshire and The Humber,"Water Supply, Sewerage, Waste & Remediation Activities",224272
+E12000003,Yorkshire and The Humber,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,435688
+E12000004,East Midlands,Accommodation & Food Service Activities,89923
+E12000004,East Midlands,Administrative & Support Service Activities,227278
+E12000004,East Midlands,"Agriculture, Forestry & Fishing",1059
+E12000004,East Midlands,"Arts, Entertainment & Recreation",41180
+E12000004,East Midlands,Education,197266
+E12000004,East Midlands,"Electricity, Gas, Steam & Air Conditioning Supply",7006
+E12000004,East Midlands,Financial & Insurance Activities,52410
+E12000004,East Midlands,Human Health & Social Work Activities,143356
+E12000004,East Midlands,Information & Communication,88391
+E12000004,East Midlands,Manufacturing,201963
+E12000004,East Midlands,Mining & Quarrying,51683
+E12000004,East Midlands,"Professional, Scientific & Technical Activities",80850
+E12000004,East Midlands,Public Administration & Defence; Compulsory Social Security,222562
+E12000004,East Midlands,Real Estate Activities,36026
+E12000004,East Midlands,Transport & Storage,85685
+E12000004,East Midlands,"Water Supply, Sewerage, Waste & Remediation Activities",211196
+E12000004,East Midlands,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,415501
+E12000005,West Midlands,Accommodation & Food Service Activities,109444
+E12000005,West Midlands,Administrative & Support Service Activities,259481
+E12000005,West Midlands,"Agriculture, Forestry & Fishing",1163
+E12000005,West Midlands,"Arts, Entertainment & Recreation",49414
+E12000005,West Midlands,Education,241916
+E12000005,West Midlands,"Electricity, Gas, Steam & Air Conditioning Supply",8774
+E12000005,West Midlands,Financial & Insurance Activities,72962
+E12000005,West Midlands,Human Health & Social Work Activities,175582
+E12000005,West Midlands,Information & Communication,116491
+E12000005,West Midlands,Manufacturing,250633
+E12000005,West Midlands,Mining & Quarrying,30835
+E12000005,West Midlands,"Professional, Scientific & Technical Activities",93459
+E12000005,West Midlands,Public Administration & Defence; Compulsory Social Security,264149
+E12000005,West Midlands,Real Estate Activities,47935
+E12000005,West Midlands,Transport & Storage,97546
+E12000005,West Midlands,"Water Supply, Sewerage, Waste & Remediation Activities",235381
+E12000005,West Midlands,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,453167
+E12000006,East of England,Accommodation & Food Service Activities,121834
+E12000006,East of England,Administrative & Support Service Activities,315902
+E12000006,East of England,"Agriculture, Forestry & Fishing",1386
+E12000006,East of England,"Arts, Entertainment & Recreation",58997
+E12000006,East of England,Education,249243
+E12000006,East of England,"Electricity, Gas, Steam & Air Conditioning Supply",8335
+E12000006,East of England,Financial & Insurance Activities,130765
+E12000006,East of England,Human Health & Social Work Activities,187601
+E12000006,East of England,Information & Communication,172349
+E12000006,East of England,Manufacturing,183878
+E12000006,East of England,Mining & Quarrying,36353
+E12000006,East of England,"Professional, Scientific & Technical Activities",147094
+E12000006,East of England,Public Administration & Defence; Compulsory Social Security,296740
+E12000006,East of England,Real Estate Activities,67843
+E12000006,East of England,Transport & Storage,101145
+E12000006,East of England,"Water Supply, Sewerage, Waste & Remediation Activities",314687
+E12000006,East of England,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,480742
+E12000007,London,Accommodation & Food Service Activities,235048
+E12000007,London,Administrative & Support Service Activities,463515
+E12000007,London,"Agriculture, Forestry & Fishing",411
+E12000007,London,"Arts, Entertainment & Recreation",94575
+E12000007,London,Education,361013
+E12000007,London,"Electricity, Gas, Steam & Air Conditioning Supply",3237
+E12000007,London,Financial & Insurance Activities,224736
+E12000007,London,Human Health & Social Work Activities,291337
+E12000007,London,Information & Communication,437022
+E12000007,London,Manufacturing,120632
+E12000007,London,Mining & Quarrying,25846
+E12000007,London,"Professional, Scientific & Technical Activities",315649
+E12000007,London,Public Administration & Defence; Compulsory Social Security,418765
+E12000007,London,Real Estate Activities,150360
+E12000007,London,Transport & Storage,118074
+E12000007,London,"Water Supply, Sewerage, Waste & Remediation Activities",350487
+E12000007,London,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,622800
+E12000008,South East,Accommodation & Food Service Activities,188989
+E12000008,South East,Administrative & Support Service Activities,503584
+E12000008,South East,"Agriculture, Forestry & Fishing",2513
+E12000008,South East,"Arts, Entertainment & Recreation",95335
+E12000008,South East,Education,369764
+E12000008,South East,"Electricity, Gas, Steam & Air Conditioning Supply",13923
+E12000008,South East,Financial & Insurance Activities,182852
+E12000008,South East,Human Health & Social Work Activities,292635
+E12000008,South East,Information & Communication,322219
+E12000008,South East,Manufacturing,254407
+E12000008,South East,Mining & Quarrying,29020
+E12000008,South East,"Professional, Scientific & Technical Activities",242614
+E12000008,South East,Public Administration & Defence; Compulsory Social Security,457614
+E12000008,South East,Real Estate Activities,95019
+E12000008,South East,Transport & Storage,149154
+E12000008,South East,"Water Supply, Sewerage, Waste & Remediation Activities",422570
+E12000008,South East,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,647423
+E12000009,South West,Accommodation & Food Service Activities,122390
+E12000009,South West,Administrative & Support Service Activities,305647
+E12000009,South West,"Agriculture, Forestry & Fishing",3022
+E12000009,South West,"Arts, Entertainment & Recreation",52862
+E12000009,South West,Education,239283
+E12000009,South West,"Electricity, Gas, Steam & Air Conditioning Supply",9819
+E12000009,South West,Financial & Insurance Activities,91813
+E12000009,South West,Human Health & Social Work Activities,194802
+E12000009,South West,Information & Communication,128220
+E12000009,South West,Manufacturing,177657
+E12000009,South West,Mining & Quarrying,30783
+E12000009,South West,"Professional, Scientific & Technical Activities",121613
+E12000009,South West,Public Administration & Defence; Compulsory Social Security,259274
+E12000009,South West,Real Estate Activities,52539
+E12000009,South West,Transport & Storage,89842
+E12000009,South West,"Water Supply, Sewerage, Waste & Remediation Activities",259050
+E12000009,South West,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,403925
+W92000004,Wales,Accommodation & Food Service Activities,58009
+W92000004,Wales,Administrative & Support Service Activities,179464
+W92000004,Wales,"Agriculture, Forestry & Fishing",1872
+W92000004,Wales,"Arts, Entertainment & Recreation",25396
+W92000004,Wales,Education,137668
+W92000004,Wales,"Electricity, Gas, Steam & Air Conditioning Supply",5781
+W92000004,Wales,Financial & Insurance Activities,40022
+W92000004,Wales,Human Health & Social Work Activities,104637
+W92000004,Wales,Information & Communication,50206
+W92000004,Wales,Manufacturing,104164
+W92000004,Wales,Mining & Quarrying,20177
+W92000004,Wales,"Professional, Scientific & Technical Activities",42583
+W92000004,Wales,Public Administration & Defence; Compulsory Social Security,131149
+W92000004,Wales,Real Estate Activities,21897
+W92000004,Wales,Transport & Storage,39021
+W92000004,Wales,"Water Supply, Sewerage, Waste & Remediation Activities",125306
+W92000004,Wales,Wholesale & Retail Trade; Repair of Motor Vehicles and Motorcycles,203783
