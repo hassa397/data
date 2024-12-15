@@ -1,101 +1,1801 @@
-dates,"Agriculture, forestry & fishing",Mining & quarrying,Manufacturing,"Electricity, gas, steam & air conditioning supply ","Water supply, sewerage, waste & remediation activities",Construction,Wholesale & retail trade; repair of motor vehicles and motorcycles,Transport & storage,Accommod-ation & food service activities,Information & communication,Financial & insurance activities,Real estate activities,Professional scientific & technical activities,Administrative & support service activities,Public admin & defence; compulsory social security1,Education,Human health & social work activities,"Arts, entertainment & recreation"
-Mar 97,464000,81000,4249000,108000,162000,1789000,4757000,1279000,1692000,882000,1085000,287000,1626000,1873000,1621000,2066000,2933000,659000
-Jun 97,499000,81000,4280000,108000,159000,1788000,4815000,1297000,1769000,895000,1101000,290000,1639000,1939000,1606000,2070000,2936000,686000
-Sep 97,516000,79000,4284000,106000,161000,1839000,4850000,1297000,1785000,900000,1105000,283000,1651000,1999000,1607000,1987000,2947000,695000
-Dec 97,480000,78000,4309000,106000,167000,1903000,4950000,1308000,1744000,930000,1104000,286000,1667000,2007000,1600000,2058000,2927000,683000
-Mar 98,468000,78000,4303000,106000,163000,1881000,4838000,1306000,1727000,956000,1116000,281000,1673000,1966000,1602000,2077000,2926000,659000
-Jun 98,476000,76000,4295000,105000,162000,1862000,4840000,1316000,1766000,970000,1113000,284000,1663000,1991000,1598000,2041000,2915000,649000
-Sep 98,463000,76000,4303000,105000,164000,1892000,4896000,1325000,1779000,976000,1105000,293000,1689000,2022000,1594000,1996000,2905000,663000
-Dec 98,424000,78000,4238000,104000,167000,1924000,4980000,1351000,1771000,1014000,1115000,286000,1710000,2038000,1594000,2096000,2949000,667000
-Mar 99,422000,77000,4163000,102000,164000,1880000,4838000,1339000,1759000,1027000,1121000,282000,1724000,2016000,1628000,2124000,2967000,682000
-Jun 99,425000,76000,4124000,102000,165000,1903000,4836000,1345000,1824000,1065000,1142000,291000,1743000,2029000,1632000,2124000,2932000,716000
-Sep 99,436000,76000,4108000,99000,163000,1925000,4866000,1363000,1835000,1080000,1153000,293000,1780000,2091000,1633000,2116000,2978000,741000
-Dec 99,400000,75000,4089000,96000,154000,1917000,4987000,1398000,1815000,1092000,1169000,301000,1791000,2082000,1647000,2213000,2986000,733000
-Mar 00,390000,76000,4043000,96000,157000,1905000,4842000,1358000,1794000,1099000,1147000,304000,1793000,2049000,1648000,2233000,2981000,738000
-Jun 00,399000,78000,4000000,95000,161000,1954000,4848000,1358000,1849000,1132000,1144000,309000,1802000,2079000,1639000,2228000,3038000,746000
-Sep 00,399000,76000,3966000,95000,164000,1945000,4897000,1380000,1837000,1161000,1150000,308000,1827000,2157000,1635000,2222000,3106000,744000
-Dec 00,376000,75000,3906000,99000,165000,1940000,5052000,1411000,1810000,1195000,1162000,316000,1848000,2184000,1643000,2255000,3071000,739000
-Mar 01,356000,76000,3875000,100000,169000,1934000,4953000,1392000,1796000,1195000,1165000,321000,1856000,2155000,1647000,2255000,3074000,745000
-Jun 01,361000,75000,3830000,102000,170000,1970000,4944000,1410000,1867000,1207000,1176000,323000,1847000,2192000,1647000,2235000,3118000,755000
-Sep 01,371000,76000,3780000,102000,174000,2003000,4945000,1401000,1876000,1214000,1196000,320000,1855000,2227000,1644000,2199000,3169000,780000
-Dec 01,363000,74000,3727000,102000,178000,2026000,5095000,1426000,1854000,1212000,1193000,324000,1867000,2199000,1665000,2248000,3173000,770000
-Mar 02,368000,74000,3673000,102000,168000,2001000,4961000,1397000,1844000,1213000,1203000,329000,1866000,2193000,1676000,2273000,3169000,773000
-Jun 02,363000,70000,3635000,100000,164000,1994000,4989000,1408000,1920000,1207000,1193000,332000,1861000,2210000,1684000,2292000,3192000,798000
-Sep 02,354000,67000,3588000,96000,161000,2017000,4998000,1420000,1934000,1211000,1189000,335000,1881000,2219000,1683000,2296000,3245000,799000
-Dec 02,336000,64000,3536000,94000,159000,2024000,5155000,1440000,1916000,1220000,1195000,331000,1895000,2200000,1715000,2359000,3235000,774000
-Mar 03,337000,63000,3495000,92000,155000,2028000,4941000,1422000,1920000,1229000,1191000,339000,1901000,2186000,1736000,2385000,3256000,783000
-Jun 03,347000,61000,3437000,93000,155000,2053000,4972000,1434000,1970000,1241000,1194000,336000,1944000,2207000,1747000,2396000,3293000,798000
-Sep 03,371000,61000,3408000,92000,159000,2094000,4995000,1427000,1977000,1227000,1194000,344000,1982000,2231000,1745000,2381000,3337000,817000
-Dec 03,371000,60000,3354000,90000,156000,2098000,5161000,1440000,1959000,1208000,1180000,346000,2009000,2228000,1760000,2463000,3343000,814000
-Mar 04,356000,57000,3313000,88000,155000,2109000,4994000,1414000,1988000,1202000,1173000,356000,2002000,2234000,1767000,2490000,3374000,811000
-Jun 04,356000,58000,3289000,83000,155000,2117000,4991000,1424000,2022000,1186000,1177000,359000,2016000,2293000,1765000,2486000,3399000,829000
-Sep 04,373000,62000,3241000,80000,155000,2132000,4987000,1431000,2015000,1175000,1170000,361000,2032000,2336000,1777000,2455000,3450000,814000
-Dec 04,374000,59000,3206000,77000,158000,2187000,5182000,1457000,2014000,1165000,1172000,369000,2036000,2346000,1783000,2503000,3469000,809000
-Mar 05,396000,58000,3172000,75000,160000,2216000,5013000,1449000,2002000,1184000,1177000,372000,2066000,2336000,1785000,2520000,3500000,815000
-Jun 05,387000,59000,3120000,73000,158000,2193000,5009000,1468000,2023000,1189000,1166000,389000,2105000,2375000,1785000,2519000,3529000,856000
-Sep 05,386000,60000,3102000,75000,158000,2241000,5013000,1476000,2018000,1187000,1162000,392000,2143000,2415000,1777000,2518000,3550000,855000
-Dec 05,386000,61000,3085000,73000,155000,2244000,5138000,1507000,1990000,1196000,1154000,400000,2185000,2433000,1785000,2580000,3566000,850000
-Mar 06,373000,58000,3040000,73000,159000,2254000,4993000,1500000,1985000,1217000,1159000,412000,2191000,2403000,1781000,2603000,3592000,852000
-Jun 06,379000,63000,3024000,77000,162000,2264000,4980000,1500000,2028000,1228000,1160000,416000,2196000,2447000,1779000,2594000,3615000,888000
-Sep 06,378000,69000,3021000,79000,162000,2286000,4994000,1493000,2022000,1240000,1164000,421000,2228000,2495000,1779000,2554000,3627000,905000
-Dec 06,387000,66000,2999000,83000,161000,2344000,5145000,1524000,2009000,1241000,1171000,425000,2256000,2525000,1784000,2596000,3622000,865000
-Mar 07,375000,66000,2985000,85000,160000,2316000,4993000,1494000,1984000,1244000,1174000,439000,2256000,2492000,1775000,2603000,3632000,851000
-Jun 07,374000,69000,2984000,85000,158000,2321000,5027000,1506000,2013000,1251000,1180000,445000,2271000,2548000,1777000,2602000,3603000,871000
-Sep 07,381000,70000,2976000,88000,157000,2356000,5015000,1515000,2034000,1246000,1181000,465000,2307000,2604000,1771000,2555000,3616000,877000
-Dec 07,376000,67000,2931000,85000,160000,2331000,5192000,1542000,2040000,1235000,1185000,470000,2308000,2610000,1771000,2606000,3623000,857000
-Mar 08,386000,67000,2905000,86000,165000,2304000,5064000,1507000,2015000,1221000,1201000,470000,2318000,2600000,1747000,2619000,3655000,872000
-Jun 08,399000,67000,2883000,86000,170000,2296000,5064000,1519000,2058000,1235000,1200000,478000,2333000,2625000,1742000,2612000,3693000,903000
-Sep 08,392000,66000,2851000,86000,174000,2378000,5024000,1517000,2048000,1240000,1205000,484000,2327000,2602000,1717000,2586000,3731000,894000
-Dec 08,388000,59000,2694000,92000,177000,2334000,5129000,1541000,2023000,1213000,1209000,493000,2374000,2484000,1749000,2681000,3757000,885000
-Mar 09,383000,66000,2686000,103000,178000,2321000,4892000,1513000,1978000,1220000,1206000,481000,2392000,2419000,1745000,2751000,3759000,835000
-Jun 09,388000,61000,2657000,108000,166000,2243000,4898000,1502000,2004000,1215000,1192000,490000,2367000,2387000,1757000,2724000,3798000,849000
-Sep 09,401000,64000,2642000,118000,168000,2185000,4842000,1505000,1975000,1188000,1148000,496000,2405000,2358000,1765000,2698000,3860000,846000
-Dec 09,381000,62000,2621000,114000,169000,2158000,4924000,1499000,1954000,1193000,1129000,480000,2409000,2374000,1766000,2754000,3862000,811000
-Mar 10,397000,61000,2570000,130000,173000,2066000,4774000,1453000,1945000,1167000,1107000,480000,2441000,2433000,1760000,2773000,3936000,838000
-Jun 10,418000,61000,2570000,134000,177000,2107000,4807000,1461000,1964000,1171000,1125000,486000,2420000,2425000,1739000,2774000,3938000,862000
-Sep 10,412000,65000,2568000,122000,180000,2085000,4816000,1455000,1962000,1196000,1115000,473000,2393000,2444000,1727000,2734000,3951000,884000
-Dec 10,439000,64000,2566000,121000,180000,2054000,4969000,1473000,1936000,1193000,1117000,451000,2407000,2466000,1704000,2743000,4005000,876000
-Mar 11,402000,62000,2560000,131000,190000,2062000,4810000,1493000,1920000,1225000,1129000,465000,2404000,2447000,1688000,2787000,4014000,874000
-Jun 11,403000,61000,2564000,121000,190000,2062000,4778000,1491000,2003000,1229000,1132000,466000,2429000,2440000,1637000,2754000,3994000,878000
-Sep 11,436000,65000,2569000,122000,187000,2087000,4793000,1484000,2022000,1235000,1127000,480000,2462000,2522000,1617000,2731000,3999000,882000
-Dec 11,434000,67000,2538000,121000,188000,2094000,4930000,1507000,1988000,1227000,1120000,484000,2481000,2574000,1596000,2763000,3996000,872000
-Mar 12,428000,73000,2579000,122000,191000,2091000,4887000,1509000,2025000,1231000,1155000,493000,2490000,2565000,1580000,2822000,4046000,901000
-Jun 12,425000,78000,2603000,123000,195000,2073000,4849000,1509000,2057000,1225000,1145000,495000,2531000,2632000,1578000,2774000,3999000,902000
-Sep 12,406000,78000,2589000,126000,194000,2069000,4811000,1507000,2050000,1239000,1128000,509000,2500000,2670000,1564000,2749000,4019000,918000
-Dec 12,380000,72000,2546000,120000,194000,2052000,4951000,1530000,2000000,1259000,1145000,505000,2575000,2583000,1560000,2770000,4047000,891000
-Mar 13,372000,71000,2546000,126000,196000,2050000,4866000,1497000,1982000,1271000,1138000,510000,2604000,2582000,1563000,2803000,4129000,901000
-Jun 13,379000,69000,2560000,122000,189000,2045000,4822000,1487000,2102000,1272000,1118000,542000,2629000,2590000,1561000,2823000,4100000,914000
-Sep 13,375000,68000,2578000,121000,193000,2072000,4825000,1499000,2123000,1277000,1107000,546000,2670000,2620000,1553000,2821000,4114000,920000
-Dec 13,414000,71000,2574000,122000,198000,2112000,4988000,1517000,2129000,1303000,1116000,547000,2733000,2691000,1539000,2868000,4125000,911000
-Mar 14,447000,67000,2581000,120000,196000,2122000,4848000,1512000,2133000,1347000,1124000,552000,2782000,2688000,1541000,2893000,4204000,943000
-Jun 14,436000,66000,2620000,115000,197000,2126000,4907000,1509000,2204000,1359000,1132000,550000,2826000,2813000,1541000,2892000,4205000,951000
-Sep 14,444000,68000,2643000,122000,195000,2134000,4935000,1527000,2205000,1362000,1128000,539000,2813000,2847000,1531000,2859000,4222000,975000
-Dec 14,420000,69000,2628000,125000,194000,2152000,5065000,1572000,2202000,1360000,1114000,567000,2841000,2917000,1518000,2908000,4215000,935000
-Mar 15,391000,75000,2650000,132000,195000,2143000,5005000,1540000,2195000,1391000,1117000,556000,2891000,2848000,1504000,2950000,4231000,954000
-Jun 15,387000,74000,2641000,133000,200000,2121000,4982000,1609000,2253000,1389000,1112000,569000,2913000,2847000,1491000,2959000,4244000,993000
-Sep 15,428000,67000,2623000,134000,201000,2182000,4997000,1609000,2272000,1385000,1109000,564000,2950000,2926000,1479000,2931000,4221000,988000
-Dec 15,417000,65000,2623000,140000,194000,2182000,5103000,1670000,2279000,1365000,1111000,568000,2967000,2935000,1477000,2975000,4224000,973000
-Mar 16,402000,64000,2637000,146000,201000,2231000,4995000,1686000,2266000,1392000,1120000,557000,3007000,2920000,1486000,2974000,4292000,963000
-Jun 16,383000,62000,2655000,141000,199000,2239000,5010000,1713000,2351000,1431000,1119000,579000,3022000,2951000,1479000,2969000,4288000,968000
-Sep 16,404000,62000,2628000,137000,207000,2206000,4972000,1730000,2379000,1418000,1138000,558000,3053000,2954000,1475000,2934000,4270000,1014000
-Dec 16,414000,60000,2630000,145000,213000,2249000,5071000,1737000,2366000,1421000,1121000,554000,3053000,3001000,1469000,2974000,4276000,1016000
-Mar 17,420000,57000,2650000,144000,216000,2329000,4982000,1729000,2363000,1467000,1116000,582000,3037000,2967000,1468000,2955000,4342000,1012000
-Jun 17,405000,59000,2681000,147000,218000,2322000,4994000,1722000,2414000,1511000,1120000,555000,2990000,2975000,1486000,2932000,4363000,992000
-Sep 17,417000,57000,2694000,144000,221000,2349000,4944000,1692000,2394000,1487000,1106000,573000,3025000,3069000,1484000,2904000,4328000,1048000
-Dec 17,420000,59000,2696000,144000,228000,2330000,5073000,1709000,2344000,1456000,1114000,589000,3025000,3035000,1481000,2918000,4356000,1009000
-Mar 18,412000,62000,2697000,147000,226000,2317000,4977000,1692000,2385000,1477000,1125000,591000,3025000,2979000,1486000,2953000,4361000,1004000
-Jun 18,407000,63000,2717000,150000,227000,2310000,4969000,1725000,2450000,1482000,1111000,565000,3029000,2998000,1492000,2946000,4335000,1009000
-Sep 18,412000,61000,2701000,154000,227000,2321000,4959000,1735000,2426000,1460000,1123000,587000,3084000,3041000,1494000,2911000,4348000,1007000
-Dec 18,381000,59000,2680000,148000,224000,2351000,5087000,1817000,2448000,1468000,1123000,592000,3126000,3031000,1505000,2949000,4343000,1010000
-Mar 19,387000,62000,2704000,141000,228000,2366000,5009000,1780000,2453000,1495000,1133000,579000,3183000,2995000,1513000,2967000,4383000,1032000
-Jun 19,398000,61000,2692000,142000,223000,2338000,4996000,1815000,2527000,1502000,1134000,590000,3218000,3008000,1511000,2948000,4415000,1032000
-Sep 19,405000,61000,2693000,139000,220000,2310000,4964000,1798000,2511000,1505000,1143000,614000,3206000,3057000,1523000,2925000,4425000,1048000
-Dec 19,407000,62000,2673000,146000,219000,2329000,5050000,1816000,2506000,1523000,1133000,634000,3179000,3067000,1532000,2962000,4433000,1043000
-Mar 20,381000,68000,2680000,147000,219000,2294000,4922000,1802000,2505000,1560000,1138000,640000,3219000,3028000,1545000,2981000,4456000,1038000
-Jun 20,375000,61000,2623000,145000,218000,2278000,4964000,1812000,2365000,1529000,1132000,626000,3122000,2927000,1559000,2987000,4493000,1002000
-Sep 20,415000,54000,2569000,143000,223000,2149000,4816000,1793000,2292000,1511000,1116000,617000,3111000,2931000,1564000,2945000,4456000,941000
-Dec 20,370000,55000,2554000,146000,222000,2144000,4898000,1764000,2167000,1489000,1130000,645000,3138000,2979000,1587000,2951000,4494000,903000
-Mar 21,368000,58000,2533000,144000,217000,2162000,4767000,1828000,2168000,1502000,1128000,631000,3164000,2976000,1614000,2957000,4567000,879000
-Jun 21,358000,60000,2545000,144000,230000,2230000,4758000,1803000,2348000,1478000,1111000,634000,3197000,3045000,1612000,2953000,4584000,950000
-Sep 21,367000,60000,2532000,143000,235000,2218000,4774000,1793000,2396000,1517000,1086000,633000,3219000,3098000,1610000,2928000,4585000,972000
-Dec 21,343000,57000,2544000,137000,230000,2227000,4810000,1810000,2423000,1540000,1084000,613000,3236000,3144000,1619000,2984000,4572000,970000
+year,Industry,Value
+Mar-97,"Agriculture, forestry & fishing",464000
+Jun-97,"Agriculture, forestry & fishing",499000
+Sep-97,"Agriculture, forestry & fishing",516000
+Dec-97,"Agriculture, forestry & fishing",480000
+Mar-98,"Agriculture, forestry & fishing",468000
+Jun-98,"Agriculture, forestry & fishing",476000
+Sep-98,"Agriculture, forestry & fishing",463000
+Dec-98,"Agriculture, forestry & fishing",424000
+Mar-99,"Agriculture, forestry & fishing",422000
+Jun-99,"Agriculture, forestry & fishing",425000
+Sep-99,"Agriculture, forestry & fishing",436000
+Dec-99,"Agriculture, forestry & fishing",400000
+Mar-00,"Agriculture, forestry & fishing",390000
+Jun-00,"Agriculture, forestry & fishing",399000
+Sep-00,"Agriculture, forestry & fishing",399000
+Dec-00,"Agriculture, forestry & fishing",376000
+Mar-01,"Agriculture, forestry & fishing",356000
+Jun-01,"Agriculture, forestry & fishing",361000
+Sep-01,"Agriculture, forestry & fishing",371000
+Dec-01,"Agriculture, forestry & fishing",363000
+Mar-02,"Agriculture, forestry & fishing",368000
+Jun-02,"Agriculture, forestry & fishing",363000
+Sep-02,"Agriculture, forestry & fishing",354000
+Dec-02,"Agriculture, forestry & fishing",336000
+Mar-03,"Agriculture, forestry & fishing",337000
+Jun-03,"Agriculture, forestry & fishing",347000
+Sep-03,"Agriculture, forestry & fishing",371000
+Dec-03,"Agriculture, forestry & fishing",371000
+Mar-04,"Agriculture, forestry & fishing",356000
+Jun-04,"Agriculture, forestry & fishing",356000
+Sep-04,"Agriculture, forestry & fishing",373000
+Dec-04,"Agriculture, forestry & fishing",374000
+Mar-05,"Agriculture, forestry & fishing",396000
+Jun-05,"Agriculture, forestry & fishing",387000
+Sep-05,"Agriculture, forestry & fishing",386000
+Dec-05,"Agriculture, forestry & fishing",386000
+Mar-06,"Agriculture, forestry & fishing",373000
+Jun-06,"Agriculture, forestry & fishing",379000
+Sep-06,"Agriculture, forestry & fishing",378000
+Dec-06,"Agriculture, forestry & fishing",387000
+Mar-07,"Agriculture, forestry & fishing",375000
+Jun-07,"Agriculture, forestry & fishing",374000
+Sep-07,"Agriculture, forestry & fishing",381000
+Dec-07,"Agriculture, forestry & fishing",376000
+Mar-08,"Agriculture, forestry & fishing",386000
+Jun-08,"Agriculture, forestry & fishing",399000
+Sep-08,"Agriculture, forestry & fishing",392000
+Dec-08,"Agriculture, forestry & fishing",388000
+Mar-09,"Agriculture, forestry & fishing",383000
+Jun-09,"Agriculture, forestry & fishing",388000
+Sep-09,"Agriculture, forestry & fishing",401000
+Dec-09,"Agriculture, forestry & fishing",381000
+Mar-10,"Agriculture, forestry & fishing",397000
+Jun-10,"Agriculture, forestry & fishing",418000
+Sep-10,"Agriculture, forestry & fishing",412000
+Dec-10,"Agriculture, forestry & fishing",439000
+Mar-11,"Agriculture, forestry & fishing",402000
+Jun-11,"Agriculture, forestry & fishing",403000
+Sep-11,"Agriculture, forestry & fishing",436000
+Dec-11,"Agriculture, forestry & fishing",434000
+Mar-12,"Agriculture, forestry & fishing",428000
+Jun-12,"Agriculture, forestry & fishing",425000
+Sep-12,"Agriculture, forestry & fishing",406000
+Dec-12,"Agriculture, forestry & fishing",380000
+Mar-13,"Agriculture, forestry & fishing",372000
+Jun-13,"Agriculture, forestry & fishing",379000
+Sep-13,"Agriculture, forestry & fishing",375000
+Dec-13,"Agriculture, forestry & fishing",414000
+Mar-14,"Agriculture, forestry & fishing",447000
+Jun-14,"Agriculture, forestry & fishing",436000
+Sep-14,"Agriculture, forestry & fishing",444000
+Dec-14,"Agriculture, forestry & fishing",420000
+Mar-15,"Agriculture, forestry & fishing",391000
+Jun-15,"Agriculture, forestry & fishing",387000
+Sep-15,"Agriculture, forestry & fishing",428000
+Dec-15,"Agriculture, forestry & fishing",417000
+Mar-16,"Agriculture, forestry & fishing",402000
+Jun-16,"Agriculture, forestry & fishing",383000
+Sep-16,"Agriculture, forestry & fishing",404000
+Dec-16,"Agriculture, forestry & fishing",414000
+Mar-17,"Agriculture, forestry & fishing",420000
+Jun-17,"Agriculture, forestry & fishing",405000
+Sep-17,"Agriculture, forestry & fishing",417000
+Dec-17,"Agriculture, forestry & fishing",420000
+Mar-18,"Agriculture, forestry & fishing",412000
+Jun-18,"Agriculture, forestry & fishing",407000
+Sep-18,"Agriculture, forestry & fishing",412000
+Dec-18,"Agriculture, forestry & fishing",381000
+Mar-19,"Agriculture, forestry & fishing",387000
+Jun-19,"Agriculture, forestry & fishing",398000
+Sep-19,"Agriculture, forestry & fishing",405000
+Dec-19,"Agriculture, forestry & fishing",407000
+Mar-20,"Agriculture, forestry & fishing",381000
+Jun-20,"Agriculture, forestry & fishing",375000
+Sep-20,"Agriculture, forestry & fishing",415000
+Dec-20,"Agriculture, forestry & fishing",370000
+Mar-21,"Agriculture, forestry & fishing",368000
+Jun-21,"Agriculture, forestry & fishing",358000
+Sep-21,"Agriculture, forestry & fishing",367000
+Dec-21,"Agriculture, forestry & fishing",343000
+Mar-97,Mining & quarrying,81000
+Jun-97,Mining & quarrying,81000
+Sep-97,Mining & quarrying,79000
+Dec-97,Mining & quarrying,78000
+Mar-98,Mining & quarrying,78000
+Jun-98,Mining & quarrying,76000
+Sep-98,Mining & quarrying,76000
+Dec-98,Mining & quarrying,78000
+Mar-99,Mining & quarrying,77000
+Jun-99,Mining & quarrying,76000
+Sep-99,Mining & quarrying,76000
+Dec-99,Mining & quarrying,75000
+Mar-00,Mining & quarrying,76000
+Jun-00,Mining & quarrying,78000
+Sep-00,Mining & quarrying,76000
+Dec-00,Mining & quarrying,75000
+Mar-01,Mining & quarrying,76000
+Jun-01,Mining & quarrying,75000
+Sep-01,Mining & quarrying,76000
+Dec-01,Mining & quarrying,74000
+Mar-02,Mining & quarrying,74000
+Jun-02,Mining & quarrying,70000
+Sep-02,Mining & quarrying,67000
+Dec-02,Mining & quarrying,64000
+Mar-03,Mining & quarrying,63000
+Jun-03,Mining & quarrying,61000
+Sep-03,Mining & quarrying,61000
+Dec-03,Mining & quarrying,60000
+Mar-04,Mining & quarrying,57000
+Jun-04,Mining & quarrying,58000
+Sep-04,Mining & quarrying,62000
+Dec-04,Mining & quarrying,59000
+Mar-05,Mining & quarrying,58000
+Jun-05,Mining & quarrying,59000
+Sep-05,Mining & quarrying,60000
+Dec-05,Mining & quarrying,61000
+Mar-06,Mining & quarrying,58000
+Jun-06,Mining & quarrying,63000
+Sep-06,Mining & quarrying,69000
+Dec-06,Mining & quarrying,66000
+Mar-07,Mining & quarrying,66000
+Jun-07,Mining & quarrying,69000
+Sep-07,Mining & quarrying,70000
+Dec-07,Mining & quarrying,67000
+Mar-08,Mining & quarrying,67000
+Jun-08,Mining & quarrying,67000
+Sep-08,Mining & quarrying,66000
+Dec-08,Mining & quarrying,59000
+Mar-09,Mining & quarrying,66000
+Jun-09,Mining & quarrying,61000
+Sep-09,Mining & quarrying,64000
+Dec-09,Mining & quarrying,62000
+Mar-10,Mining & quarrying,61000
+Jun-10,Mining & quarrying,61000
+Sep-10,Mining & quarrying,65000
+Dec-10,Mining & quarrying,64000
+Mar-11,Mining & quarrying,62000
+Jun-11,Mining & quarrying,61000
+Sep-11,Mining & quarrying,65000
+Dec-11,Mining & quarrying,67000
+Mar-12,Mining & quarrying,73000
+Jun-12,Mining & quarrying,78000
+Sep-12,Mining & quarrying,78000
+Dec-12,Mining & quarrying,72000
+Mar-13,Mining & quarrying,71000
+Jun-13,Mining & quarrying,69000
+Sep-13,Mining & quarrying,68000
+Dec-13,Mining & quarrying,71000
+Mar-14,Mining & quarrying,67000
+Jun-14,Mining & quarrying,66000
+Sep-14,Mining & quarrying,68000
+Dec-14,Mining & quarrying,69000
+Mar-15,Mining & quarrying,75000
+Jun-15,Mining & quarrying,74000
+Sep-15,Mining & quarrying,67000
+Dec-15,Mining & quarrying,65000
+Mar-16,Mining & quarrying,64000
+Jun-16,Mining & quarrying,62000
+Sep-16,Mining & quarrying,62000
+Dec-16,Mining & quarrying,60000
+Mar-17,Mining & quarrying,57000
+Jun-17,Mining & quarrying,59000
+Sep-17,Mining & quarrying,57000
+Dec-17,Mining & quarrying,59000
+Mar-18,Mining & quarrying,62000
+Jun-18,Mining & quarrying,63000
+Sep-18,Mining & quarrying,61000
+Dec-18,Mining & quarrying,59000
+Mar-19,Mining & quarrying,62000
+Jun-19,Mining & quarrying,61000
+Sep-19,Mining & quarrying,61000
+Dec-19,Mining & quarrying,62000
+Mar-20,Mining & quarrying,68000
+Jun-20,Mining & quarrying,61000
+Sep-20,Mining & quarrying,54000
+Dec-20,Mining & quarrying,55000
+Mar-21,Mining & quarrying,58000
+Jun-21,Mining & quarrying,60000
+Sep-21,Mining & quarrying,60000
+Dec-21,Mining & quarrying,57000
+Mar-97,Manufacturing,4249000
+Jun-97,Manufacturing,4280000
+Sep-97,Manufacturing,4284000
+Dec-97,Manufacturing,4309000
+Mar-98,Manufacturing,4303000
+Jun-98,Manufacturing,4295000
+Sep-98,Manufacturing,4303000
+Dec-98,Manufacturing,4238000
+Mar-99,Manufacturing,4163000
+Jun-99,Manufacturing,4124000
+Sep-99,Manufacturing,4108000
+Dec-99,Manufacturing,4089000
+Mar-00,Manufacturing,4043000
+Jun-00,Manufacturing,4000000
+Sep-00,Manufacturing,3966000
+Dec-00,Manufacturing,3906000
+Mar-01,Manufacturing,3875000
+Jun-01,Manufacturing,3830000
+Sep-01,Manufacturing,3780000
+Dec-01,Manufacturing,3727000
+Mar-02,Manufacturing,3673000
+Jun-02,Manufacturing,3635000
+Sep-02,Manufacturing,3588000
+Dec-02,Manufacturing,3536000
+Mar-03,Manufacturing,3495000
+Jun-03,Manufacturing,3437000
+Sep-03,Manufacturing,3408000
+Dec-03,Manufacturing,3354000
+Mar-04,Manufacturing,3313000
+Jun-04,Manufacturing,3289000
+Sep-04,Manufacturing,3241000
+Dec-04,Manufacturing,3206000
+Mar-05,Manufacturing,3172000
+Jun-05,Manufacturing,3120000
+Sep-05,Manufacturing,3102000
+Dec-05,Manufacturing,3085000
+Mar-06,Manufacturing,3040000
+Jun-06,Manufacturing,3024000
+Sep-06,Manufacturing,3021000
+Dec-06,Manufacturing,2999000
+Mar-07,Manufacturing,2985000
+Jun-07,Manufacturing,2984000
+Sep-07,Manufacturing,2976000
+Dec-07,Manufacturing,2931000
+Mar-08,Manufacturing,2905000
+Jun-08,Manufacturing,2883000
+Sep-08,Manufacturing,2851000
+Dec-08,Manufacturing,2694000
+Mar-09,Manufacturing,2686000
+Jun-09,Manufacturing,2657000
+Sep-09,Manufacturing,2642000
+Dec-09,Manufacturing,2621000
+Mar-10,Manufacturing,2570000
+Jun-10,Manufacturing,2570000
+Sep-10,Manufacturing,2568000
+Dec-10,Manufacturing,2566000
+Mar-11,Manufacturing,2560000
+Jun-11,Manufacturing,2564000
+Sep-11,Manufacturing,2569000
+Dec-11,Manufacturing,2538000
+Mar-12,Manufacturing,2579000
+Jun-12,Manufacturing,2603000
+Sep-12,Manufacturing,2589000
+Dec-12,Manufacturing,2546000
+Mar-13,Manufacturing,2546000
+Jun-13,Manufacturing,2560000
+Sep-13,Manufacturing,2578000
+Dec-13,Manufacturing,2574000
+Mar-14,Manufacturing,2581000
+Jun-14,Manufacturing,2620000
+Sep-14,Manufacturing,2643000
+Dec-14,Manufacturing,2628000
+Mar-15,Manufacturing,2650000
+Jun-15,Manufacturing,2641000
+Sep-15,Manufacturing,2623000
+Dec-15,Manufacturing,2623000
+Mar-16,Manufacturing,2637000
+Jun-16,Manufacturing,2655000
+Sep-16,Manufacturing,2628000
+Dec-16,Manufacturing,2630000
+Mar-17,Manufacturing,2650000
+Jun-17,Manufacturing,2681000
+Sep-17,Manufacturing,2694000
+Dec-17,Manufacturing,2696000
+Mar-18,Manufacturing,2697000
+Jun-18,Manufacturing,2717000
+Sep-18,Manufacturing,2701000
+Dec-18,Manufacturing,2680000
+Mar-19,Manufacturing,2704000
+Jun-19,Manufacturing,2692000
+Sep-19,Manufacturing,2693000
+Dec-19,Manufacturing,2673000
+Mar-20,Manufacturing,2680000
+Jun-20,Manufacturing,2623000
+Sep-20,Manufacturing,2569000
+Dec-20,Manufacturing,2554000
+Mar-21,Manufacturing,2533000
+Jun-21,Manufacturing,2545000
+Sep-21,Manufacturing,2532000
+Dec-21,Manufacturing,2544000
+Mar-97,"Electricity, gas, steam & air conditioning supply ",108000
+Jun-97,"Electricity, gas, steam & air conditioning supply ",108000
+Sep-97,"Electricity, gas, steam & air conditioning supply ",106000
+Dec-97,"Electricity, gas, steam & air conditioning supply ",106000
+Mar-98,"Electricity, gas, steam & air conditioning supply ",106000
+Jun-98,"Electricity, gas, steam & air conditioning supply ",105000
+Sep-98,"Electricity, gas, steam & air conditioning supply ",105000
+Dec-98,"Electricity, gas, steam & air conditioning supply ",104000
+Mar-99,"Electricity, gas, steam & air conditioning supply ",102000
+Jun-99,"Electricity, gas, steam & air conditioning supply ",102000
+Sep-99,"Electricity, gas, steam & air conditioning supply ",99000
+Dec-99,"Electricity, gas, steam & air conditioning supply ",96000
+Mar-00,"Electricity, gas, steam & air conditioning supply ",96000
+Jun-00,"Electricity, gas, steam & air conditioning supply ",95000
+Sep-00,"Electricity, gas, steam & air conditioning supply ",95000
+Dec-00,"Electricity, gas, steam & air conditioning supply ",99000
+Mar-01,"Electricity, gas, steam & air conditioning supply ",100000
+Jun-01,"Electricity, gas, steam & air conditioning supply ",102000
+Sep-01,"Electricity, gas, steam & air conditioning supply ",102000
+Dec-01,"Electricity, gas, steam & air conditioning supply ",102000
+Mar-02,"Electricity, gas, steam & air conditioning supply ",102000
+Jun-02,"Electricity, gas, steam & air conditioning supply ",100000
+Sep-02,"Electricity, gas, steam & air conditioning supply ",96000
+Dec-02,"Electricity, gas, steam & air conditioning supply ",94000
+Mar-03,"Electricity, gas, steam & air conditioning supply ",92000
+Jun-03,"Electricity, gas, steam & air conditioning supply ",93000
+Sep-03,"Electricity, gas, steam & air conditioning supply ",92000
+Dec-03,"Electricity, gas, steam & air conditioning supply ",90000
+Mar-04,"Electricity, gas, steam & air conditioning supply ",88000
+Jun-04,"Electricity, gas, steam & air conditioning supply ",83000
+Sep-04,"Electricity, gas, steam & air conditioning supply ",80000
+Dec-04,"Electricity, gas, steam & air conditioning supply ",77000
+Mar-05,"Electricity, gas, steam & air conditioning supply ",75000
+Jun-05,"Electricity, gas, steam & air conditioning supply ",73000
+Sep-05,"Electricity, gas, steam & air conditioning supply ",75000
+Dec-05,"Electricity, gas, steam & air conditioning supply ",73000
+Mar-06,"Electricity, gas, steam & air conditioning supply ",73000
+Jun-06,"Electricity, gas, steam & air conditioning supply ",77000
+Sep-06,"Electricity, gas, steam & air conditioning supply ",79000
+Dec-06,"Electricity, gas, steam & air conditioning supply ",83000
+Mar-07,"Electricity, gas, steam & air conditioning supply ",85000
+Jun-07,"Electricity, gas, steam & air conditioning supply ",85000
+Sep-07,"Electricity, gas, steam & air conditioning supply ",88000
+Dec-07,"Electricity, gas, steam & air conditioning supply ",85000
+Mar-08,"Electricity, gas, steam & air conditioning supply ",86000
+Jun-08,"Electricity, gas, steam & air conditioning supply ",86000
+Sep-08,"Electricity, gas, steam & air conditioning supply ",86000
+Dec-08,"Electricity, gas, steam & air conditioning supply ",92000
+Mar-09,"Electricity, gas, steam & air conditioning supply ",103000
+Jun-09,"Electricity, gas, steam & air conditioning supply ",108000
+Sep-09,"Electricity, gas, steam & air conditioning supply ",118000
+Dec-09,"Electricity, gas, steam & air conditioning supply ",114000
+Mar-10,"Electricity, gas, steam & air conditioning supply ",130000
+Jun-10,"Electricity, gas, steam & air conditioning supply ",134000
+Sep-10,"Electricity, gas, steam & air conditioning supply ",122000
+Dec-10,"Electricity, gas, steam & air conditioning supply ",121000
+Mar-11,"Electricity, gas, steam & air conditioning supply ",131000
+Jun-11,"Electricity, gas, steam & air conditioning supply ",121000
+Sep-11,"Electricity, gas, steam & air conditioning supply ",122000
+Dec-11,"Electricity, gas, steam & air conditioning supply ",121000
+Mar-12,"Electricity, gas, steam & air conditioning supply ",122000
+Jun-12,"Electricity, gas, steam & air conditioning supply ",123000
+Sep-12,"Electricity, gas, steam & air conditioning supply ",126000
+Dec-12,"Electricity, gas, steam & air conditioning supply ",120000
+Mar-13,"Electricity, gas, steam & air conditioning supply ",126000
+Jun-13,"Electricity, gas, steam & air conditioning supply ",122000
+Sep-13,"Electricity, gas, steam & air conditioning supply ",121000
+Dec-13,"Electricity, gas, steam & air conditioning supply ",122000
+Mar-14,"Electricity, gas, steam & air conditioning supply ",120000
+Jun-14,"Electricity, gas, steam & air conditioning supply ",115000
+Sep-14,"Electricity, gas, steam & air conditioning supply ",122000
+Dec-14,"Electricity, gas, steam & air conditioning supply ",125000
+Mar-15,"Electricity, gas, steam & air conditioning supply ",132000
+Jun-15,"Electricity, gas, steam & air conditioning supply ",133000
+Sep-15,"Electricity, gas, steam & air conditioning supply ",134000
+Dec-15,"Electricity, gas, steam & air conditioning supply ",140000
+Mar-16,"Electricity, gas, steam & air conditioning supply ",146000
+Jun-16,"Electricity, gas, steam & air conditioning supply ",141000
+Sep-16,"Electricity, gas, steam & air conditioning supply ",137000
+Dec-16,"Electricity, gas, steam & air conditioning supply ",145000
+Mar-17,"Electricity, gas, steam & air conditioning supply ",144000
+Jun-17,"Electricity, gas, steam & air conditioning supply ",147000
+Sep-17,"Electricity, gas, steam & air conditioning supply ",144000
+Dec-17,"Electricity, gas, steam & air conditioning supply ",144000
+Mar-18,"Electricity, gas, steam & air conditioning supply ",147000
+Jun-18,"Electricity, gas, steam & air conditioning supply ",150000
+Sep-18,"Electricity, gas, steam & air conditioning supply ",154000
+Dec-18,"Electricity, gas, steam & air conditioning supply ",148000
+Mar-19,"Electricity, gas, steam & air conditioning supply ",141000
+Jun-19,"Electricity, gas, steam & air conditioning supply ",142000
+Sep-19,"Electricity, gas, steam & air conditioning supply ",139000
+Dec-19,"Electricity, gas, steam & air conditioning supply ",146000
+Mar-20,"Electricity, gas, steam & air conditioning supply ",147000
+Jun-20,"Electricity, gas, steam & air conditioning supply ",145000
+Sep-20,"Electricity, gas, steam & air conditioning supply ",143000
+Dec-20,"Electricity, gas, steam & air conditioning supply ",146000
+Mar-21,"Electricity, gas, steam & air conditioning supply ",144000
+Jun-21,"Electricity, gas, steam & air conditioning supply ",144000
+Sep-21,"Electricity, gas, steam & air conditioning supply ",143000
+Dec-21,"Electricity, gas, steam & air conditioning supply ",137000
+Mar-97,"Water supply, sewerage, waste & remediation activities",162000
+Jun-97,"Water supply, sewerage, waste & remediation activities",159000
+Sep-97,"Water supply, sewerage, waste & remediation activities",161000
+Dec-97,"Water supply, sewerage, waste & remediation activities",167000
+Mar-98,"Water supply, sewerage, waste & remediation activities",163000
+Jun-98,"Water supply, sewerage, waste & remediation activities",162000
+Sep-98,"Water supply, sewerage, waste & remediation activities",164000
+Dec-98,"Water supply, sewerage, waste & remediation activities",167000
+Mar-99,"Water supply, sewerage, waste & remediation activities",164000
+Jun-99,"Water supply, sewerage, waste & remediation activities",165000
+Sep-99,"Water supply, sewerage, waste & remediation activities",163000
+Dec-99,"Water supply, sewerage, waste & remediation activities",154000
+Mar-00,"Water supply, sewerage, waste & remediation activities",157000
+Jun-00,"Water supply, sewerage, waste & remediation activities",161000
+Sep-00,"Water supply, sewerage, waste & remediation activities",164000
+Dec-00,"Water supply, sewerage, waste & remediation activities",165000
+Mar-01,"Water supply, sewerage, waste & remediation activities",169000
+Jun-01,"Water supply, sewerage, waste & remediation activities",170000
+Sep-01,"Water supply, sewerage, waste & remediation activities",174000
+Dec-01,"Water supply, sewerage, waste & remediation activities",178000
+Mar-02,"Water supply, sewerage, waste & remediation activities",168000
+Jun-02,"Water supply, sewerage, waste & remediation activities",164000
+Sep-02,"Water supply, sewerage, waste & remediation activities",161000
+Dec-02,"Water supply, sewerage, waste & remediation activities",159000
+Mar-03,"Water supply, sewerage, waste & remediation activities",155000
+Jun-03,"Water supply, sewerage, waste & remediation activities",155000
+Sep-03,"Water supply, sewerage, waste & remediation activities",159000
+Dec-03,"Water supply, sewerage, waste & remediation activities",156000
+Mar-04,"Water supply, sewerage, waste & remediation activities",155000
+Jun-04,"Water supply, sewerage, waste & remediation activities",155000
+Sep-04,"Water supply, sewerage, waste & remediation activities",155000
+Dec-04,"Water supply, sewerage, waste & remediation activities",158000
+Mar-05,"Water supply, sewerage, waste & remediation activities",160000
+Jun-05,"Water supply, sewerage, waste & remediation activities",158000
+Sep-05,"Water supply, sewerage, waste & remediation activities",158000
+Dec-05,"Water supply, sewerage, waste & remediation activities",155000
+Mar-06,"Water supply, sewerage, waste & remediation activities",159000
+Jun-06,"Water supply, sewerage, waste & remediation activities",162000
+Sep-06,"Water supply, sewerage, waste & remediation activities",162000
+Dec-06,"Water supply, sewerage, waste & remediation activities",161000
+Mar-07,"Water supply, sewerage, waste & remediation activities",160000
+Jun-07,"Water supply, sewerage, waste & remediation activities",158000
+Sep-07,"Water supply, sewerage, waste & remediation activities",157000
+Dec-07,"Water supply, sewerage, waste & remediation activities",160000
+Mar-08,"Water supply, sewerage, waste & remediation activities",165000
+Jun-08,"Water supply, sewerage, waste & remediation activities",170000
+Sep-08,"Water supply, sewerage, waste & remediation activities",174000
+Dec-08,"Water supply, sewerage, waste & remediation activities",177000
+Mar-09,"Water supply, sewerage, waste & remediation activities",178000
+Jun-09,"Water supply, sewerage, waste & remediation activities",166000
+Sep-09,"Water supply, sewerage, waste & remediation activities",168000
+Dec-09,"Water supply, sewerage, waste & remediation activities",169000
+Mar-10,"Water supply, sewerage, waste & remediation activities",173000
+Jun-10,"Water supply, sewerage, waste & remediation activities",177000
+Sep-10,"Water supply, sewerage, waste & remediation activities",180000
+Dec-10,"Water supply, sewerage, waste & remediation activities",180000
+Mar-11,"Water supply, sewerage, waste & remediation activities",190000
+Jun-11,"Water supply, sewerage, waste & remediation activities",190000
+Sep-11,"Water supply, sewerage, waste & remediation activities",187000
+Dec-11,"Water supply, sewerage, waste & remediation activities",188000
+Mar-12,"Water supply, sewerage, waste & remediation activities",191000
+Jun-12,"Water supply, sewerage, waste & remediation activities",195000
+Sep-12,"Water supply, sewerage, waste & remediation activities",194000
+Dec-12,"Water supply, sewerage, waste & remediation activities",194000
+Mar-13,"Water supply, sewerage, waste & remediation activities",196000
+Jun-13,"Water supply, sewerage, waste & remediation activities",189000
+Sep-13,"Water supply, sewerage, waste & remediation activities",193000
+Dec-13,"Water supply, sewerage, waste & remediation activities",198000
+Mar-14,"Water supply, sewerage, waste & remediation activities",196000
+Jun-14,"Water supply, sewerage, waste & remediation activities",197000
+Sep-14,"Water supply, sewerage, waste & remediation activities",195000
+Dec-14,"Water supply, sewerage, waste & remediation activities",194000
+Mar-15,"Water supply, sewerage, waste & remediation activities",195000
+Jun-15,"Water supply, sewerage, waste & remediation activities",200000
+Sep-15,"Water supply, sewerage, waste & remediation activities",201000
+Dec-15,"Water supply, sewerage, waste & remediation activities",194000
+Mar-16,"Water supply, sewerage, waste & remediation activities",201000
+Jun-16,"Water supply, sewerage, waste & remediation activities",199000
+Sep-16,"Water supply, sewerage, waste & remediation activities",207000
+Dec-16,"Water supply, sewerage, waste & remediation activities",213000
+Mar-17,"Water supply, sewerage, waste & remediation activities",216000
+Jun-17,"Water supply, sewerage, waste & remediation activities",218000
+Sep-17,"Water supply, sewerage, waste & remediation activities",221000
+Dec-17,"Water supply, sewerage, waste & remediation activities",228000
+Mar-18,"Water supply, sewerage, waste & remediation activities",226000
+Jun-18,"Water supply, sewerage, waste & remediation activities",227000
+Sep-18,"Water supply, sewerage, waste & remediation activities",227000
+Dec-18,"Water supply, sewerage, waste & remediation activities",224000
+Mar-19,"Water supply, sewerage, waste & remediation activities",228000
+Jun-19,"Water supply, sewerage, waste & remediation activities",223000
+Sep-19,"Water supply, sewerage, waste & remediation activities",220000
+Dec-19,"Water supply, sewerage, waste & remediation activities",219000
+Mar-20,"Water supply, sewerage, waste & remediation activities",219000
+Jun-20,"Water supply, sewerage, waste & remediation activities",218000
+Sep-20,"Water supply, sewerage, waste & remediation activities",223000
+Dec-20,"Water supply, sewerage, waste & remediation activities",222000
+Mar-21,"Water supply, sewerage, waste & remediation activities",217000
+Jun-21,"Water supply, sewerage, waste & remediation activities",230000
+Sep-21,"Water supply, sewerage, waste & remediation activities",235000
+Dec-21,"Water supply, sewerage, waste & remediation activities",230000
+Mar-97,Construction,1789000
+Jun-97,Construction,1788000
+Sep-97,Construction,1839000
+Dec-97,Construction,1903000
+Mar-98,Construction,1881000
+Jun-98,Construction,1862000
+Sep-98,Construction,1892000
+Dec-98,Construction,1924000
+Mar-99,Construction,1880000
+Jun-99,Construction,1903000
+Sep-99,Construction,1925000
+Dec-99,Construction,1917000
+Mar-00,Construction,1905000
+Jun-00,Construction,1954000
+Sep-00,Construction,1945000
+Dec-00,Construction,1940000
+Mar-01,Construction,1934000
+Jun-01,Construction,1970000
+Sep-01,Construction,2003000
+Dec-01,Construction,2026000
+Mar-02,Construction,2001000
+Jun-02,Construction,1994000
+Sep-02,Construction,2017000
+Dec-02,Construction,2024000
+Mar-03,Construction,2028000
+Jun-03,Construction,2053000
+Sep-03,Construction,2094000
+Dec-03,Construction,2098000
+Mar-04,Construction,2109000
+Jun-04,Construction,2117000
+Sep-04,Construction,2132000
+Dec-04,Construction,2187000
+Mar-05,Construction,2216000
+Jun-05,Construction,2193000
+Sep-05,Construction,2241000
+Dec-05,Construction,2244000
+Mar-06,Construction,2254000
+Jun-06,Construction,2264000
+Sep-06,Construction,2286000
+Dec-06,Construction,2344000
+Mar-07,Construction,2316000
+Jun-07,Construction,2321000
+Sep-07,Construction,2356000
+Dec-07,Construction,2331000
+Mar-08,Construction,2304000
+Jun-08,Construction,2296000
+Sep-08,Construction,2378000
+Dec-08,Construction,2334000
+Mar-09,Construction,2321000
+Jun-09,Construction,2243000
+Sep-09,Construction,2185000
+Dec-09,Construction,2158000
+Mar-10,Construction,2066000
+Jun-10,Construction,2107000
+Sep-10,Construction,2085000
+Dec-10,Construction,2054000
+Mar-11,Construction,2062000
+Jun-11,Construction,2062000
+Sep-11,Construction,2087000
+Dec-11,Construction,2094000
+Mar-12,Construction,2091000
+Jun-12,Construction,2073000
+Sep-12,Construction,2069000
+Dec-12,Construction,2052000
+Mar-13,Construction,2050000
+Jun-13,Construction,2045000
+Sep-13,Construction,2072000
+Dec-13,Construction,2112000
+Mar-14,Construction,2122000
+Jun-14,Construction,2126000
+Sep-14,Construction,2134000
+Dec-14,Construction,2152000
+Mar-15,Construction,2143000
+Jun-15,Construction,2121000
+Sep-15,Construction,2182000
+Dec-15,Construction,2182000
+Mar-16,Construction,2231000
+Jun-16,Construction,2239000
+Sep-16,Construction,2206000
+Dec-16,Construction,2249000
+Mar-17,Construction,2329000
+Jun-17,Construction,2322000
+Sep-17,Construction,2349000
+Dec-17,Construction,2330000
+Mar-18,Construction,2317000
+Jun-18,Construction,2310000
+Sep-18,Construction,2321000
+Dec-18,Construction,2351000
+Mar-19,Construction,2366000
+Jun-19,Construction,2338000
+Sep-19,Construction,2310000
+Dec-19,Construction,2329000
+Mar-20,Construction,2294000
+Jun-20,Construction,2278000
+Sep-20,Construction,2149000
+Dec-20,Construction,2144000
+Mar-21,Construction,2162000
+Jun-21,Construction,2230000
+Sep-21,Construction,2218000
+Dec-21,Construction,2227000
+Mar-97,Wholesale & retail trade; repair of motor vehicles and motorcycles,4757000
+Jun-97,Wholesale & retail trade; repair of motor vehicles and motorcycles,4815000
+Sep-97,Wholesale & retail trade; repair of motor vehicles and motorcycles,4850000
+Dec-97,Wholesale & retail trade; repair of motor vehicles and motorcycles,4950000
+Mar-98,Wholesale & retail trade; repair of motor vehicles and motorcycles,4838000
+Jun-98,Wholesale & retail trade; repair of motor vehicles and motorcycles,4840000
+Sep-98,Wholesale & retail trade; repair of motor vehicles and motorcycles,4896000
+Dec-98,Wholesale & retail trade; repair of motor vehicles and motorcycles,4980000
+Mar-99,Wholesale & retail trade; repair of motor vehicles and motorcycles,4838000
+Jun-99,Wholesale & retail trade; repair of motor vehicles and motorcycles,4836000
+Sep-99,Wholesale & retail trade; repair of motor vehicles and motorcycles,4866000
+Dec-99,Wholesale & retail trade; repair of motor vehicles and motorcycles,4987000
+Mar-00,Wholesale & retail trade; repair of motor vehicles and motorcycles,4842000
+Jun-00,Wholesale & retail trade; repair of motor vehicles and motorcycles,4848000
+Sep-00,Wholesale & retail trade; repair of motor vehicles and motorcycles,4897000
+Dec-00,Wholesale & retail trade; repair of motor vehicles and motorcycles,5052000
+Mar-01,Wholesale & retail trade; repair of motor vehicles and motorcycles,4953000
+Jun-01,Wholesale & retail trade; repair of motor vehicles and motorcycles,4944000
+Sep-01,Wholesale & retail trade; repair of motor vehicles and motorcycles,4945000
+Dec-01,Wholesale & retail trade; repair of motor vehicles and motorcycles,5095000
+Mar-02,Wholesale & retail trade; repair of motor vehicles and motorcycles,4961000
+Jun-02,Wholesale & retail trade; repair of motor vehicles and motorcycles,4989000
+Sep-02,Wholesale & retail trade; repair of motor vehicles and motorcycles,4998000
+Dec-02,Wholesale & retail trade; repair of motor vehicles and motorcycles,5155000
+Mar-03,Wholesale & retail trade; repair of motor vehicles and motorcycles,4941000
+Jun-03,Wholesale & retail trade; repair of motor vehicles and motorcycles,4972000
+Sep-03,Wholesale & retail trade; repair of motor vehicles and motorcycles,4995000
+Dec-03,Wholesale & retail trade; repair of motor vehicles and motorcycles,5161000
+Mar-04,Wholesale & retail trade; repair of motor vehicles and motorcycles,4994000
+Jun-04,Wholesale & retail trade; repair of motor vehicles and motorcycles,4991000
+Sep-04,Wholesale & retail trade; repair of motor vehicles and motorcycles,4987000
+Dec-04,Wholesale & retail trade; repair of motor vehicles and motorcycles,5182000
+Mar-05,Wholesale & retail trade; repair of motor vehicles and motorcycles,5013000
+Jun-05,Wholesale & retail trade; repair of motor vehicles and motorcycles,5009000
+Sep-05,Wholesale & retail trade; repair of motor vehicles and motorcycles,5013000
+Dec-05,Wholesale & retail trade; repair of motor vehicles and motorcycles,5138000
+Mar-06,Wholesale & retail trade; repair of motor vehicles and motorcycles,4993000
+Jun-06,Wholesale & retail trade; repair of motor vehicles and motorcycles,4980000
+Sep-06,Wholesale & retail trade; repair of motor vehicles and motorcycles,4994000
+Dec-06,Wholesale & retail trade; repair of motor vehicles and motorcycles,5145000
+Mar-07,Wholesale & retail trade; repair of motor vehicles and motorcycles,4993000
+Jun-07,Wholesale & retail trade; repair of motor vehicles and motorcycles,5027000
+Sep-07,Wholesale & retail trade; repair of motor vehicles and motorcycles,5015000
+Dec-07,Wholesale & retail trade; repair of motor vehicles and motorcycles,5192000
+Mar-08,Wholesale & retail trade; repair of motor vehicles and motorcycles,5064000
+Jun-08,Wholesale & retail trade; repair of motor vehicles and motorcycles,5064000
+Sep-08,Wholesale & retail trade; repair of motor vehicles and motorcycles,5024000
+Dec-08,Wholesale & retail trade; repair of motor vehicles and motorcycles,5129000
+Mar-09,Wholesale & retail trade; repair of motor vehicles and motorcycles,4892000
+Jun-09,Wholesale & retail trade; repair of motor vehicles and motorcycles,4898000
+Sep-09,Wholesale & retail trade; repair of motor vehicles and motorcycles,4842000
+Dec-09,Wholesale & retail trade; repair of motor vehicles and motorcycles,4924000
+Mar-10,Wholesale & retail trade; repair of motor vehicles and motorcycles,4774000
+Jun-10,Wholesale & retail trade; repair of motor vehicles and motorcycles,4807000
+Sep-10,Wholesale & retail trade; repair of motor vehicles and motorcycles,4816000
+Dec-10,Wholesale & retail trade; repair of motor vehicles and motorcycles,4969000
+Mar-11,Wholesale & retail trade; repair of motor vehicles and motorcycles,4810000
+Jun-11,Wholesale & retail trade; repair of motor vehicles and motorcycles,4778000
+Sep-11,Wholesale & retail trade; repair of motor vehicles and motorcycles,4793000
+Dec-11,Wholesale & retail trade; repair of motor vehicles and motorcycles,4930000
+Mar-12,Wholesale & retail trade; repair of motor vehicles and motorcycles,4887000
+Jun-12,Wholesale & retail trade; repair of motor vehicles and motorcycles,4849000
+Sep-12,Wholesale & retail trade; repair of motor vehicles and motorcycles,4811000
+Dec-12,Wholesale & retail trade; repair of motor vehicles and motorcycles,4951000
+Mar-13,Wholesale & retail trade; repair of motor vehicles and motorcycles,4866000
+Jun-13,Wholesale & retail trade; repair of motor vehicles and motorcycles,4822000
+Sep-13,Wholesale & retail trade; repair of motor vehicles and motorcycles,4825000
+Dec-13,Wholesale & retail trade; repair of motor vehicles and motorcycles,4988000
+Mar-14,Wholesale & retail trade; repair of motor vehicles and motorcycles,4848000
+Jun-14,Wholesale & retail trade; repair of motor vehicles and motorcycles,4907000
+Sep-14,Wholesale & retail trade; repair of motor vehicles and motorcycles,4935000
+Dec-14,Wholesale & retail trade; repair of motor vehicles and motorcycles,5065000
+Mar-15,Wholesale & retail trade; repair of motor vehicles and motorcycles,5005000
+Jun-15,Wholesale & retail trade; repair of motor vehicles and motorcycles,4982000
+Sep-15,Wholesale & retail trade; repair of motor vehicles and motorcycles,4997000
+Dec-15,Wholesale & retail trade; repair of motor vehicles and motorcycles,5103000
+Mar-16,Wholesale & retail trade; repair of motor vehicles and motorcycles,4995000
+Jun-16,Wholesale & retail trade; repair of motor vehicles and motorcycles,5010000
+Sep-16,Wholesale & retail trade; repair of motor vehicles and motorcycles,4972000
+Dec-16,Wholesale & retail trade; repair of motor vehicles and motorcycles,5071000
+Mar-17,Wholesale & retail trade; repair of motor vehicles and motorcycles,4982000
+Jun-17,Wholesale & retail trade; repair of motor vehicles and motorcycles,4994000
+Sep-17,Wholesale & retail trade; repair of motor vehicles and motorcycles,4944000
+Dec-17,Wholesale & retail trade; repair of motor vehicles and motorcycles,5073000
+Mar-18,Wholesale & retail trade; repair of motor vehicles and motorcycles,4977000
+Jun-18,Wholesale & retail trade; repair of motor vehicles and motorcycles,4969000
+Sep-18,Wholesale & retail trade; repair of motor vehicles and motorcycles,4959000
+Dec-18,Wholesale & retail trade; repair of motor vehicles and motorcycles,5087000
+Mar-19,Wholesale & retail trade; repair of motor vehicles and motorcycles,5009000
+Jun-19,Wholesale & retail trade; repair of motor vehicles and motorcycles,4996000
+Sep-19,Wholesale & retail trade; repair of motor vehicles and motorcycles,4964000
+Dec-19,Wholesale & retail trade; repair of motor vehicles and motorcycles,5050000
+Mar-20,Wholesale & retail trade; repair of motor vehicles and motorcycles,4922000
+Jun-20,Wholesale & retail trade; repair of motor vehicles and motorcycles,4964000
+Sep-20,Wholesale & retail trade; repair of motor vehicles and motorcycles,4816000
+Dec-20,Wholesale & retail trade; repair of motor vehicles and motorcycles,4898000
+Mar-21,Wholesale & retail trade; repair of motor vehicles and motorcycles,4767000
+Jun-21,Wholesale & retail trade; repair of motor vehicles and motorcycles,4758000
+Sep-21,Wholesale & retail trade; repair of motor vehicles and motorcycles,4774000
+Dec-21,Wholesale & retail trade; repair of motor vehicles and motorcycles,4810000
+Mar-97,Transport & storage,1279000
+Jun-97,Transport & storage,1297000
+Sep-97,Transport & storage,1297000
+Dec-97,Transport & storage,1308000
+Mar-98,Transport & storage,1306000
+Jun-98,Transport & storage,1316000
+Sep-98,Transport & storage,1325000
+Dec-98,Transport & storage,1351000
+Mar-99,Transport & storage,1339000
+Jun-99,Transport & storage,1345000
+Sep-99,Transport & storage,1363000
+Dec-99,Transport & storage,1398000
+Mar-00,Transport & storage,1358000
+Jun-00,Transport & storage,1358000
+Sep-00,Transport & storage,1380000
+Dec-00,Transport & storage,1411000
+Mar-01,Transport & storage,1392000
+Jun-01,Transport & storage,1410000
+Sep-01,Transport & storage,1401000
+Dec-01,Transport & storage,1426000
+Mar-02,Transport & storage,1397000
+Jun-02,Transport & storage,1408000
+Sep-02,Transport & storage,1420000
+Dec-02,Transport & storage,1440000
+Mar-03,Transport & storage,1422000
+Jun-03,Transport & storage,1434000
+Sep-03,Transport & storage,1427000
+Dec-03,Transport & storage,1440000
+Mar-04,Transport & storage,1414000
+Jun-04,Transport & storage,1424000
+Sep-04,Transport & storage,1431000
+Dec-04,Transport & storage,1457000
+Mar-05,Transport & storage,1449000
+Jun-05,Transport & storage,1468000
+Sep-05,Transport & storage,1476000
+Dec-05,Transport & storage,1507000
+Mar-06,Transport & storage,1500000
+Jun-06,Transport & storage,1500000
+Sep-06,Transport & storage,1493000
+Dec-06,Transport & storage,1524000
+Mar-07,Transport & storage,1494000
+Jun-07,Transport & storage,1506000
+Sep-07,Transport & storage,1515000
+Dec-07,Transport & storage,1542000
+Mar-08,Transport & storage,1507000
+Jun-08,Transport & storage,1519000
+Sep-08,Transport & storage,1517000
+Dec-08,Transport & storage,1541000
+Mar-09,Transport & storage,1513000
+Jun-09,Transport & storage,1502000
+Sep-09,Transport & storage,1505000
+Dec-09,Transport & storage,1499000
+Mar-10,Transport & storage,1453000
+Jun-10,Transport & storage,1461000
+Sep-10,Transport & storage,1455000
+Dec-10,Transport & storage,1473000
+Mar-11,Transport & storage,1493000
+Jun-11,Transport & storage,1491000
+Sep-11,Transport & storage,1484000
+Dec-11,Transport & storage,1507000
+Mar-12,Transport & storage,1509000
+Jun-12,Transport & storage,1509000
+Sep-12,Transport & storage,1507000
+Dec-12,Transport & storage,1530000
+Mar-13,Transport & storage,1497000
+Jun-13,Transport & storage,1487000
+Sep-13,Transport & storage,1499000
+Dec-13,Transport & storage,1517000
+Mar-14,Transport & storage,1512000
+Jun-14,Transport & storage,1509000
+Sep-14,Transport & storage,1527000
+Dec-14,Transport & storage,1572000
+Mar-15,Transport & storage,1540000
+Jun-15,Transport & storage,1609000
+Sep-15,Transport & storage,1609000
+Dec-15,Transport & storage,1670000
+Mar-16,Transport & storage,1686000
+Jun-16,Transport & storage,1713000
+Sep-16,Transport & storage,1730000
+Dec-16,Transport & storage,1737000
+Mar-17,Transport & storage,1729000
+Jun-17,Transport & storage,1722000
+Sep-17,Transport & storage,1692000
+Dec-17,Transport & storage,1709000
+Mar-18,Transport & storage,1692000
+Jun-18,Transport & storage,1725000
+Sep-18,Transport & storage,1735000
+Dec-18,Transport & storage,1817000
+Mar-19,Transport & storage,1780000
+Jun-19,Transport & storage,1815000
+Sep-19,Transport & storage,1798000
+Dec-19,Transport & storage,1816000
+Mar-20,Transport & storage,1802000
+Jun-20,Transport & storage,1812000
+Sep-20,Transport & storage,1793000
+Dec-20,Transport & storage,1764000
+Mar-21,Transport & storage,1828000
+Jun-21,Transport & storage,1803000
+Sep-21,Transport & storage,1793000
+Dec-21,Transport & storage,1810000
+Mar-97,Accommod-ation & food service activities,1692000
+Jun-97,Accommod-ation & food service activities,1769000
+Sep-97,Accommod-ation & food service activities,1785000
+Dec-97,Accommod-ation & food service activities,1744000
+Mar-98,Accommod-ation & food service activities,1727000
+Jun-98,Accommod-ation & food service activities,1766000
+Sep-98,Accommod-ation & food service activities,1779000
+Dec-98,Accommod-ation & food service activities,1771000
+Mar-99,Accommod-ation & food service activities,1759000
+Jun-99,Accommod-ation & food service activities,1824000
+Sep-99,Accommod-ation & food service activities,1835000
+Dec-99,Accommod-ation & food service activities,1815000
+Mar-00,Accommod-ation & food service activities,1794000
+Jun-00,Accommod-ation & food service activities,1849000
+Sep-00,Accommod-ation & food service activities,1837000
+Dec-00,Accommod-ation & food service activities,1810000
+Mar-01,Accommod-ation & food service activities,1796000
+Jun-01,Accommod-ation & food service activities,1867000
+Sep-01,Accommod-ation & food service activities,1876000
+Dec-01,Accommod-ation & food service activities,1854000
+Mar-02,Accommod-ation & food service activities,1844000
+Jun-02,Accommod-ation & food service activities,1920000
+Sep-02,Accommod-ation & food service activities,1934000
+Dec-02,Accommod-ation & food service activities,1916000
+Mar-03,Accommod-ation & food service activities,1920000
+Jun-03,Accommod-ation & food service activities,1970000
+Sep-03,Accommod-ation & food service activities,1977000
+Dec-03,Accommod-ation & food service activities,1959000
+Mar-04,Accommod-ation & food service activities,1988000
+Jun-04,Accommod-ation & food service activities,2022000
+Sep-04,Accommod-ation & food service activities,2015000
+Dec-04,Accommod-ation & food service activities,2014000
+Mar-05,Accommod-ation & food service activities,2002000
+Jun-05,Accommod-ation & food service activities,2023000
+Sep-05,Accommod-ation & food service activities,2018000
+Dec-05,Accommod-ation & food service activities,1990000
+Mar-06,Accommod-ation & food service activities,1985000
+Jun-06,Accommod-ation & food service activities,2028000
+Sep-06,Accommod-ation & food service activities,2022000
+Dec-06,Accommod-ation & food service activities,2009000
+Mar-07,Accommod-ation & food service activities,1984000
+Jun-07,Accommod-ation & food service activities,2013000
+Sep-07,Accommod-ation & food service activities,2034000
+Dec-07,Accommod-ation & food service activities,2040000
+Mar-08,Accommod-ation & food service activities,2015000
+Jun-08,Accommod-ation & food service activities,2058000
+Sep-08,Accommod-ation & food service activities,2048000
+Dec-08,Accommod-ation & food service activities,2023000
+Mar-09,Accommod-ation & food service activities,1978000
+Jun-09,Accommod-ation & food service activities,2004000
+Sep-09,Accommod-ation & food service activities,1975000
+Dec-09,Accommod-ation & food service activities,1954000
+Mar-10,Accommod-ation & food service activities,1945000
+Jun-10,Accommod-ation & food service activities,1964000
+Sep-10,Accommod-ation & food service activities,1962000
+Dec-10,Accommod-ation & food service activities,1936000
+Mar-11,Accommod-ation & food service activities,1920000
+Jun-11,Accommod-ation & food service activities,2003000
+Sep-11,Accommod-ation & food service activities,2022000
+Dec-11,Accommod-ation & food service activities,1988000
+Mar-12,Accommod-ation & food service activities,2025000
+Jun-12,Accommod-ation & food service activities,2057000
+Sep-12,Accommod-ation & food service activities,2050000
+Dec-12,Accommod-ation & food service activities,2000000
+Mar-13,Accommod-ation & food service activities,1982000
+Jun-13,Accommod-ation & food service activities,2102000
+Sep-13,Accommod-ation & food service activities,2123000
+Dec-13,Accommod-ation & food service activities,2129000
+Mar-14,Accommod-ation & food service activities,2133000
+Jun-14,Accommod-ation & food service activities,2204000
+Sep-14,Accommod-ation & food service activities,2205000
+Dec-14,Accommod-ation & food service activities,2202000
+Mar-15,Accommod-ation & food service activities,2195000
+Jun-15,Accommod-ation & food service activities,2253000
+Sep-15,Accommod-ation & food service activities,2272000
+Dec-15,Accommod-ation & food service activities,2279000
+Mar-16,Accommod-ation & food service activities,2266000
+Jun-16,Accommod-ation & food service activities,2351000
+Sep-16,Accommod-ation & food service activities,2379000
+Dec-16,Accommod-ation & food service activities,2366000
+Mar-17,Accommod-ation & food service activities,2363000
+Jun-17,Accommod-ation & food service activities,2414000
+Sep-17,Accommod-ation & food service activities,2394000
+Dec-17,Accommod-ation & food service activities,2344000
+Mar-18,Accommod-ation & food service activities,2385000
+Jun-18,Accommod-ation & food service activities,2450000
+Sep-18,Accommod-ation & food service activities,2426000
+Dec-18,Accommod-ation & food service activities,2448000
+Mar-19,Accommod-ation & food service activities,2453000
+Jun-19,Accommod-ation & food service activities,2527000
+Sep-19,Accommod-ation & food service activities,2511000
+Dec-19,Accommod-ation & food service activities,2506000
+Mar-20,Accommod-ation & food service activities,2505000
+Jun-20,Accommod-ation & food service activities,2365000
+Sep-20,Accommod-ation & food service activities,2292000
+Dec-20,Accommod-ation & food service activities,2167000
+Mar-21,Accommod-ation & food service activities,2168000
+Jun-21,Accommod-ation & food service activities,2348000
+Sep-21,Accommod-ation & food service activities,2396000
+Dec-21,Accommod-ation & food service activities,2423000
+Mar-97,Information & communication,882000
+Jun-97,Information & communication,895000
+Sep-97,Information & communication,900000
+Dec-97,Information & communication,930000
+Mar-98,Information & communication,956000
+Jun-98,Information & communication,970000
+Sep-98,Information & communication,976000
+Dec-98,Information & communication,1014000
+Mar-99,Information & communication,1027000
+Jun-99,Information & communication,1065000
+Sep-99,Information & communication,1080000
+Dec-99,Information & communication,1092000
+Mar-00,Information & communication,1099000
+Jun-00,Information & communication,1132000
+Sep-00,Information & communication,1161000
+Dec-00,Information & communication,1195000
+Mar-01,Information & communication,1195000
+Jun-01,Information & communication,1207000
+Sep-01,Information & communication,1214000
+Dec-01,Information & communication,1212000
+Mar-02,Information & communication,1213000
+Jun-02,Information & communication,1207000
+Sep-02,Information & communication,1211000
+Dec-02,Information & communication,1220000
+Mar-03,Information & communication,1229000
+Jun-03,Information & communication,1241000
+Sep-03,Information & communication,1227000
+Dec-03,Information & communication,1208000
+Mar-04,Information & communication,1202000
+Jun-04,Information & communication,1186000
+Sep-04,Information & communication,1175000
+Dec-04,Information & communication,1165000
+Mar-05,Information & communication,1184000
+Jun-05,Information & communication,1189000
+Sep-05,Information & communication,1187000
+Dec-05,Information & communication,1196000
+Mar-06,Information & communication,1217000
+Jun-06,Information & communication,1228000
+Sep-06,Information & communication,1240000
+Dec-06,Information & communication,1241000
+Mar-07,Information & communication,1244000
+Jun-07,Information & communication,1251000
+Sep-07,Information & communication,1246000
+Dec-07,Information & communication,1235000
+Mar-08,Information & communication,1221000
+Jun-08,Information & communication,1235000
+Sep-08,Information & communication,1240000
+Dec-08,Information & communication,1213000
+Mar-09,Information & communication,1220000
+Jun-09,Information & communication,1215000
+Sep-09,Information & communication,1188000
+Dec-09,Information & communication,1193000
+Mar-10,Information & communication,1167000
+Jun-10,Information & communication,1171000
+Sep-10,Information & communication,1196000
+Dec-10,Information & communication,1193000
+Mar-11,Information & communication,1225000
+Jun-11,Information & communication,1229000
+Sep-11,Information & communication,1235000
+Dec-11,Information & communication,1227000
+Mar-12,Information & communication,1231000
+Jun-12,Information & communication,1225000
+Sep-12,Information & communication,1239000
+Dec-12,Information & communication,1259000
+Mar-13,Information & communication,1271000
+Jun-13,Information & communication,1272000
+Sep-13,Information & communication,1277000
+Dec-13,Information & communication,1303000
+Mar-14,Information & communication,1347000
+Jun-14,Information & communication,1359000
+Sep-14,Information & communication,1362000
+Dec-14,Information & communication,1360000
+Mar-15,Information & communication,1391000
+Jun-15,Information & communication,1389000
+Sep-15,Information & communication,1385000
+Dec-15,Information & communication,1365000
+Mar-16,Information & communication,1392000
+Jun-16,Information & communication,1431000
+Sep-16,Information & communication,1418000
+Dec-16,Information & communication,1421000
+Mar-17,Information & communication,1467000
+Jun-17,Information & communication,1511000
+Sep-17,Information & communication,1487000
+Dec-17,Information & communication,1456000
+Mar-18,Information & communication,1477000
+Jun-18,Information & communication,1482000
+Sep-18,Information & communication,1460000
+Dec-18,Information & communication,1468000
+Mar-19,Information & communication,1495000
+Jun-19,Information & communication,1502000
+Sep-19,Information & communication,1505000
+Dec-19,Information & communication,1523000
+Mar-20,Information & communication,1560000
+Jun-20,Information & communication,1529000
+Sep-20,Information & communication,1511000
+Dec-20,Information & communication,1489000
+Mar-21,Information & communication,1502000
+Jun-21,Information & communication,1478000
+Sep-21,Information & communication,1517000
+Dec-21,Information & communication,1540000
+Mar-97,Financial & insurance activities,1085000
+Jun-97,Financial & insurance activities,1101000
+Sep-97,Financial & insurance activities,1105000
+Dec-97,Financial & insurance activities,1104000
+Mar-98,Financial & insurance activities,1116000
+Jun-98,Financial & insurance activities,1113000
+Sep-98,Financial & insurance activities,1105000
+Dec-98,Financial & insurance activities,1115000
+Mar-99,Financial & insurance activities,1121000
+Jun-99,Financial & insurance activities,1142000
+Sep-99,Financial & insurance activities,1153000
+Dec-99,Financial & insurance activities,1169000
+Mar-00,Financial & insurance activities,1147000
+Jun-00,Financial & insurance activities,1144000
+Sep-00,Financial & insurance activities,1150000
+Dec-00,Financial & insurance activities,1162000
+Mar-01,Financial & insurance activities,1165000
+Jun-01,Financial & insurance activities,1176000
+Sep-01,Financial & insurance activities,1196000
+Dec-01,Financial & insurance activities,1193000
+Mar-02,Financial & insurance activities,1203000
+Jun-02,Financial & insurance activities,1193000
+Sep-02,Financial & insurance activities,1189000
+Dec-02,Financial & insurance activities,1195000
+Mar-03,Financial & insurance activities,1191000
+Jun-03,Financial & insurance activities,1194000
+Sep-03,Financial & insurance activities,1194000
+Dec-03,Financial & insurance activities,1180000
+Mar-04,Financial & insurance activities,1173000
+Jun-04,Financial & insurance activities,1177000
+Sep-04,Financial & insurance activities,1170000
+Dec-04,Financial & insurance activities,1172000
+Mar-05,Financial & insurance activities,1177000
+Jun-05,Financial & insurance activities,1166000
+Sep-05,Financial & insurance activities,1162000
+Dec-05,Financial & insurance activities,1154000
+Mar-06,Financial & insurance activities,1159000
+Jun-06,Financial & insurance activities,1160000
+Sep-06,Financial & insurance activities,1164000
+Dec-06,Financial & insurance activities,1171000
+Mar-07,Financial & insurance activities,1174000
+Jun-07,Financial & insurance activities,1180000
+Sep-07,Financial & insurance activities,1181000
+Dec-07,Financial & insurance activities,1185000
+Mar-08,Financial & insurance activities,1201000
+Jun-08,Financial & insurance activities,1200000
+Sep-08,Financial & insurance activities,1205000
+Dec-08,Financial & insurance activities,1209000
+Mar-09,Financial & insurance activities,1206000
+Jun-09,Financial & insurance activities,1192000
+Sep-09,Financial & insurance activities,1148000
+Dec-09,Financial & insurance activities,1129000
+Mar-10,Financial & insurance activities,1107000
+Jun-10,Financial & insurance activities,1125000
+Sep-10,Financial & insurance activities,1115000
+Dec-10,Financial & insurance activities,1117000
+Mar-11,Financial & insurance activities,1129000
+Jun-11,Financial & insurance activities,1132000
+Sep-11,Financial & insurance activities,1127000
+Dec-11,Financial & insurance activities,1120000
+Mar-12,Financial & insurance activities,1155000
+Jun-12,Financial & insurance activities,1145000
+Sep-12,Financial & insurance activities,1128000
+Dec-12,Financial & insurance activities,1145000
+Mar-13,Financial & insurance activities,1138000
+Jun-13,Financial & insurance activities,1118000
+Sep-13,Financial & insurance activities,1107000
+Dec-13,Financial & insurance activities,1116000
+Mar-14,Financial & insurance activities,1124000
+Jun-14,Financial & insurance activities,1132000
+Sep-14,Financial & insurance activities,1128000
+Dec-14,Financial & insurance activities,1114000
+Mar-15,Financial & insurance activities,1117000
+Jun-15,Financial & insurance activities,1112000
+Sep-15,Financial & insurance activities,1109000
+Dec-15,Financial & insurance activities,1111000
+Mar-16,Financial & insurance activities,1120000
+Jun-16,Financial & insurance activities,1119000
+Sep-16,Financial & insurance activities,1138000
+Dec-16,Financial & insurance activities,1121000
+Mar-17,Financial & insurance activities,1116000
+Jun-17,Financial & insurance activities,1120000
+Sep-17,Financial & insurance activities,1106000
+Dec-17,Financial & insurance activities,1114000
+Mar-18,Financial & insurance activities,1125000
+Jun-18,Financial & insurance activities,1111000
+Sep-18,Financial & insurance activities,1123000
+Dec-18,Financial & insurance activities,1123000
+Mar-19,Financial & insurance activities,1133000
+Jun-19,Financial & insurance activities,1134000
+Sep-19,Financial & insurance activities,1143000
+Dec-19,Financial & insurance activities,1133000
+Mar-20,Financial & insurance activities,1138000
+Jun-20,Financial & insurance activities,1132000
+Sep-20,Financial & insurance activities,1116000
+Dec-20,Financial & insurance activities,1130000
+Mar-21,Financial & insurance activities,1128000
+Jun-21,Financial & insurance activities,1111000
+Sep-21,Financial & insurance activities,1086000
+Dec-21,Financial & insurance activities,1084000
+Mar-97,Real estate activities,287000
+Jun-97,Real estate activities,290000
+Sep-97,Real estate activities,283000
+Dec-97,Real estate activities,286000
+Mar-98,Real estate activities,281000
+Jun-98,Real estate activities,284000
+Sep-98,Real estate activities,293000
+Dec-98,Real estate activities,286000
+Mar-99,Real estate activities,282000
+Jun-99,Real estate activities,291000
+Sep-99,Real estate activities,293000
+Dec-99,Real estate activities,301000
+Mar-00,Real estate activities,304000
+Jun-00,Real estate activities,309000
+Sep-00,Real estate activities,308000
+Dec-00,Real estate activities,316000
+Mar-01,Real estate activities,321000
+Jun-01,Real estate activities,323000
+Sep-01,Real estate activities,320000
+Dec-01,Real estate activities,324000
+Mar-02,Real estate activities,329000
+Jun-02,Real estate activities,332000
+Sep-02,Real estate activities,335000
+Dec-02,Real estate activities,331000
+Mar-03,Real estate activities,339000
+Jun-03,Real estate activities,336000
+Sep-03,Real estate activities,344000
+Dec-03,Real estate activities,346000
+Mar-04,Real estate activities,356000
+Jun-04,Real estate activities,359000
+Sep-04,Real estate activities,361000
+Dec-04,Real estate activities,369000
+Mar-05,Real estate activities,372000
+Jun-05,Real estate activities,389000
+Sep-05,Real estate activities,392000
+Dec-05,Real estate activities,400000
+Mar-06,Real estate activities,412000
+Jun-06,Real estate activities,416000
+Sep-06,Real estate activities,421000
+Dec-06,Real estate activities,425000
+Mar-07,Real estate activities,439000
+Jun-07,Real estate activities,445000
+Sep-07,Real estate activities,465000
+Dec-07,Real estate activities,470000
+Mar-08,Real estate activities,470000
+Jun-08,Real estate activities,478000
+Sep-08,Real estate activities,484000
+Dec-08,Real estate activities,493000
+Mar-09,Real estate activities,481000
+Jun-09,Real estate activities,490000
+Sep-09,Real estate activities,496000
+Dec-09,Real estate activities,480000
+Mar-10,Real estate activities,480000
+Jun-10,Real estate activities,486000
+Sep-10,Real estate activities,473000
+Dec-10,Real estate activities,451000
+Mar-11,Real estate activities,465000
+Jun-11,Real estate activities,466000
+Sep-11,Real estate activities,480000
+Dec-11,Real estate activities,484000
+Mar-12,Real estate activities,493000
+Jun-12,Real estate activities,495000
+Sep-12,Real estate activities,509000
+Dec-12,Real estate activities,505000
+Mar-13,Real estate activities,510000
+Jun-13,Real estate activities,542000
+Sep-13,Real estate activities,546000
+Dec-13,Real estate activities,547000
+Mar-14,Real estate activities,552000
+Jun-14,Real estate activities,550000
+Sep-14,Real estate activities,539000
+Dec-14,Real estate activities,567000
+Mar-15,Real estate activities,556000
+Jun-15,Real estate activities,569000
+Sep-15,Real estate activities,564000
+Dec-15,Real estate activities,568000
+Mar-16,Real estate activities,557000
+Jun-16,Real estate activities,579000
+Sep-16,Real estate activities,558000
+Dec-16,Real estate activities,554000
+Mar-17,Real estate activities,582000
+Jun-17,Real estate activities,555000
+Sep-17,Real estate activities,573000
+Dec-17,Real estate activities,589000
+Mar-18,Real estate activities,591000
+Jun-18,Real estate activities,565000
+Sep-18,Real estate activities,587000
+Dec-18,Real estate activities,592000
+Mar-19,Real estate activities,579000
+Jun-19,Real estate activities,590000
+Sep-19,Real estate activities,614000
+Dec-19,Real estate activities,634000
+Mar-20,Real estate activities,640000
+Jun-20,Real estate activities,626000
+Sep-20,Real estate activities,617000
+Dec-20,Real estate activities,645000
+Mar-21,Real estate activities,631000
+Jun-21,Real estate activities,634000
+Sep-21,Real estate activities,633000
+Dec-21,Real estate activities,613000
+Mar-97,Professional scientific & technical activities,1626000
+Jun-97,Professional scientific & technical activities,1639000
+Sep-97,Professional scientific & technical activities,1651000
+Dec-97,Professional scientific & technical activities,1667000
+Mar-98,Professional scientific & technical activities,1673000
+Jun-98,Professional scientific & technical activities,1663000
+Sep-98,Professional scientific & technical activities,1689000
+Dec-98,Professional scientific & technical activities,1710000
+Mar-99,Professional scientific & technical activities,1724000
+Jun-99,Professional scientific & technical activities,1743000
+Sep-99,Professional scientific & technical activities,1780000
+Dec-99,Professional scientific & technical activities,1791000
+Mar-00,Professional scientific & technical activities,1793000
+Jun-00,Professional scientific & technical activities,1802000
+Sep-00,Professional scientific & technical activities,1827000
+Dec-00,Professional scientific & technical activities,1848000
+Mar-01,Professional scientific & technical activities,1856000
+Jun-01,Professional scientific & technical activities,1847000
+Sep-01,Professional scientific & technical activities,1855000
+Dec-01,Professional scientific & technical activities,1867000
+Mar-02,Professional scientific & technical activities,1866000
+Jun-02,Professional scientific & technical activities,1861000
+Sep-02,Professional scientific & technical activities,1881000
+Dec-02,Professional scientific & technical activities,1895000
+Mar-03,Professional scientific & technical activities,1901000
+Jun-03,Professional scientific & technical activities,1944000
+Sep-03,Professional scientific & technical activities,1982000
+Dec-03,Professional scientific & technical activities,2009000
+Mar-04,Professional scientific & technical activities,2002000
+Jun-04,Professional scientific & technical activities,2016000
+Sep-04,Professional scientific & technical activities,2032000
+Dec-04,Professional scientific & technical activities,2036000
+Mar-05,Professional scientific & technical activities,2066000
+Jun-05,Professional scientific & technical activities,2105000
+Sep-05,Professional scientific & technical activities,2143000
+Dec-05,Professional scientific & technical activities,2185000
+Mar-06,Professional scientific & technical activities,2191000
+Jun-06,Professional scientific & technical activities,2196000
+Sep-06,Professional scientific & technical activities,2228000
+Dec-06,Professional scientific & technical activities,2256000
+Mar-07,Professional scientific & technical activities,2256000
+Jun-07,Professional scientific & technical activities,2271000
+Sep-07,Professional scientific & technical activities,2307000
+Dec-07,Professional scientific & technical activities,2308000
+Mar-08,Professional scientific & technical activities,2318000
+Jun-08,Professional scientific & technical activities,2333000
+Sep-08,Professional scientific & technical activities,2327000
+Dec-08,Professional scientific & technical activities,2374000
+Mar-09,Professional scientific & technical activities,2392000
+Jun-09,Professional scientific & technical activities,2367000
+Sep-09,Professional scientific & technical activities,2405000
+Dec-09,Professional scientific & technical activities,2409000
+Mar-10,Professional scientific & technical activities,2441000
+Jun-10,Professional scientific & technical activities,2420000
+Sep-10,Professional scientific & technical activities,2393000
+Dec-10,Professional scientific & technical activities,2407000
+Mar-11,Professional scientific & technical activities,2404000
+Jun-11,Professional scientific & technical activities,2429000
+Sep-11,Professional scientific & technical activities,2462000
+Dec-11,Professional scientific & technical activities,2481000
+Mar-12,Professional scientific & technical activities,2490000
+Jun-12,Professional scientific & technical activities,2531000
+Sep-12,Professional scientific & technical activities,2500000
+Dec-12,Professional scientific & technical activities,2575000
+Mar-13,Professional scientific & technical activities,2604000
+Jun-13,Professional scientific & technical activities,2629000
+Sep-13,Professional scientific & technical activities,2670000
+Dec-13,Professional scientific & technical activities,2733000
+Mar-14,Professional scientific & technical activities,2782000
+Jun-14,Professional scientific & technical activities,2826000
+Sep-14,Professional scientific & technical activities,2813000
+Dec-14,Professional scientific & technical activities,2841000
+Mar-15,Professional scientific & technical activities,2891000
+Jun-15,Professional scientific & technical activities,2913000
+Sep-15,Professional scientific & technical activities,2950000
+Dec-15,Professional scientific & technical activities,2967000
+Mar-16,Professional scientific & technical activities,3007000
+Jun-16,Professional scientific & technical activities,3022000
+Sep-16,Professional scientific & technical activities,3053000
+Dec-16,Professional scientific & technical activities,3053000
+Mar-17,Professional scientific & technical activities,3037000
+Jun-17,Professional scientific & technical activities,2990000
+Sep-17,Professional scientific & technical activities,3025000
+Dec-17,Professional scientific & technical activities,3025000
+Mar-18,Professional scientific & technical activities,3025000
+Jun-18,Professional scientific & technical activities,3029000
+Sep-18,Professional scientific & technical activities,3084000
+Dec-18,Professional scientific & technical activities,3126000
+Mar-19,Professional scientific & technical activities,3183000
+Jun-19,Professional scientific & technical activities,3218000
+Sep-19,Professional scientific & technical activities,3206000
+Dec-19,Professional scientific & technical activities,3179000
+Mar-20,Professional scientific & technical activities,3219000
+Jun-20,Professional scientific & technical activities,3122000
+Sep-20,Professional scientific & technical activities,3111000
+Dec-20,Professional scientific & technical activities,3138000
+Mar-21,Professional scientific & technical activities,3164000
+Jun-21,Professional scientific & technical activities,3197000
+Sep-21,Professional scientific & technical activities,3219000
+Dec-21,Professional scientific & technical activities,3236000
+Mar-97,Administrative & support service activities,1873000
+Jun-97,Administrative & support service activities,1939000
+Sep-97,Administrative & support service activities,1999000
+Dec-97,Administrative & support service activities,2007000
+Mar-98,Administrative & support service activities,1966000
+Jun-98,Administrative & support service activities,1991000
+Sep-98,Administrative & support service activities,2022000
+Dec-98,Administrative & support service activities,2038000
+Mar-99,Administrative & support service activities,2016000
+Jun-99,Administrative & support service activities,2029000
+Sep-99,Administrative & support service activities,2091000
+Dec-99,Administrative & support service activities,2082000
+Mar-00,Administrative & support service activities,2049000
+Jun-00,Administrative & support service activities,2079000
+Sep-00,Administrative & support service activities,2157000
+Dec-00,Administrative & support service activities,2184000
+Mar-01,Administrative & support service activities,2155000
+Jun-01,Administrative & support service activities,2192000
+Sep-01,Administrative & support service activities,2227000
+Dec-01,Administrative & support service activities,2199000
+Mar-02,Administrative & support service activities,2193000
+Jun-02,Administrative & support service activities,2210000
+Sep-02,Administrative & support service activities,2219000
+Dec-02,Administrative & support service activities,2200000
+Mar-03,Administrative & support service activities,2186000
+Jun-03,Administrative & support service activities,2207000
+Sep-03,Administrative & support service activities,2231000
+Dec-03,Administrative & support service activities,2228000
+Mar-04,Administrative & support service activities,2234000
+Jun-04,Administrative & support service activities,2293000
+Sep-04,Administrative & support service activities,2336000
+Dec-04,Administrative & support service activities,2346000
+Mar-05,Administrative & support service activities,2336000
+Jun-05,Administrative & support service activities,2375000
+Sep-05,Administrative & support service activities,2415000
+Dec-05,Administrative & support service activities,2433000
+Mar-06,Administrative & support service activities,2403000
+Jun-06,Administrative & support service activities,2447000
+Sep-06,Administrative & support service activities,2495000
+Dec-06,Administrative & support service activities,2525000
+Mar-07,Administrative & support service activities,2492000
+Jun-07,Administrative & support service activities,2548000
+Sep-07,Administrative & support service activities,2604000
+Dec-07,Administrative & support service activities,2610000
+Mar-08,Administrative & support service activities,2600000
+Jun-08,Administrative & support service activities,2625000
+Sep-08,Administrative & support service activities,2602000
+Dec-08,Administrative & support service activities,2484000
+Mar-09,Administrative & support service activities,2419000
+Jun-09,Administrative & support service activities,2387000
+Sep-09,Administrative & support service activities,2358000
+Dec-09,Administrative & support service activities,2374000
+Mar-10,Administrative & support service activities,2433000
+Jun-10,Administrative & support service activities,2425000
+Sep-10,Administrative & support service activities,2444000
+Dec-10,Administrative & support service activities,2466000
+Mar-11,Administrative & support service activities,2447000
+Jun-11,Administrative & support service activities,2440000
+Sep-11,Administrative & support service activities,2522000
+Dec-11,Administrative & support service activities,2574000
+Mar-12,Administrative & support service activities,2565000
+Jun-12,Administrative & support service activities,2632000
+Sep-12,Administrative & support service activities,2670000
+Dec-12,Administrative & support service activities,2583000
+Mar-13,Administrative & support service activities,2582000
+Jun-13,Administrative & support service activities,2590000
+Sep-13,Administrative & support service activities,2620000
+Dec-13,Administrative & support service activities,2691000
+Mar-14,Administrative & support service activities,2688000
+Jun-14,Administrative & support service activities,2813000
+Sep-14,Administrative & support service activities,2847000
+Dec-14,Administrative & support service activities,2917000
+Mar-15,Administrative & support service activities,2848000
+Jun-15,Administrative & support service activities,2847000
+Sep-15,Administrative & support service activities,2926000
+Dec-15,Administrative & support service activities,2935000
+Mar-16,Administrative & support service activities,2920000
+Jun-16,Administrative & support service activities,2951000
+Sep-16,Administrative & support service activities,2954000
+Dec-16,Administrative & support service activities,3001000
+Mar-17,Administrative & support service activities,2967000
+Jun-17,Administrative & support service activities,2975000
+Sep-17,Administrative & support service activities,3069000
+Dec-17,Administrative & support service activities,3035000
+Mar-18,Administrative & support service activities,2979000
+Jun-18,Administrative & support service activities,2998000
+Sep-18,Administrative & support service activities,3041000
+Dec-18,Administrative & support service activities,3031000
+Mar-19,Administrative & support service activities,2995000
+Jun-19,Administrative & support service activities,3008000
+Sep-19,Administrative & support service activities,3057000
+Dec-19,Administrative & support service activities,3067000
+Mar-20,Administrative & support service activities,3028000
+Jun-20,Administrative & support service activities,2927000
+Sep-20,Administrative & support service activities,2931000
+Dec-20,Administrative & support service activities,2979000
+Mar-21,Administrative & support service activities,2976000
+Jun-21,Administrative & support service activities,3045000
+Sep-21,Administrative & support service activities,3098000
+Dec-21,Administrative & support service activities,3144000
+Mar-97,Public admin & defence; compulsory social security1,1621000
+Jun-97,Public admin & defence; compulsory social security1,1606000
+Sep-97,Public admin & defence; compulsory social security1,1607000
+Dec-97,Public admin & defence; compulsory social security1,1600000
+Mar-98,Public admin & defence; compulsory social security1,1602000
+Jun-98,Public admin & defence; compulsory social security1,1598000
+Sep-98,Public admin & defence; compulsory social security1,1594000
+Dec-98,Public admin & defence; compulsory social security1,1594000
+Mar-99,Public admin & defence; compulsory social security1,1628000
+Jun-99,Public admin & defence; compulsory social security1,1632000
+Sep-99,Public admin & defence; compulsory social security1,1633000
+Dec-99,Public admin & defence; compulsory social security1,1647000
+Mar-00,Public admin & defence; compulsory social security1,1648000
+Jun-00,Public admin & defence; compulsory social security1,1639000
+Sep-00,Public admin & defence; compulsory social security1,1635000
+Dec-00,Public admin & defence; compulsory social security1,1643000
+Mar-01,Public admin & defence; compulsory social security1,1647000
+Jun-01,Public admin & defence; compulsory social security1,1647000
+Sep-01,Public admin & defence; compulsory social security1,1644000
+Dec-01,Public admin & defence; compulsory social security1,1665000
+Mar-02,Public admin & defence; compulsory social security1,1676000
+Jun-02,Public admin & defence; compulsory social security1,1684000
+Sep-02,Public admin & defence; compulsory social security1,1683000
+Dec-02,Public admin & defence; compulsory social security1,1715000
+Mar-03,Public admin & defence; compulsory social security1,1736000
+Jun-03,Public admin & defence; compulsory social security1,1747000
+Sep-03,Public admin & defence; compulsory social security1,1745000
+Dec-03,Public admin & defence; compulsory social security1,1760000
+Mar-04,Public admin & defence; compulsory social security1,1767000
+Jun-04,Public admin & defence; compulsory social security1,1765000
+Sep-04,Public admin & defence; compulsory social security1,1777000
+Dec-04,Public admin & defence; compulsory social security1,1783000
+Mar-05,Public admin & defence; compulsory social security1,1785000
+Jun-05,Public admin & defence; compulsory social security1,1785000
+Sep-05,Public admin & defence; compulsory social security1,1777000
+Dec-05,Public admin & defence; compulsory social security1,1785000
+Mar-06,Public admin & defence; compulsory social security1,1781000
+Jun-06,Public admin & defence; compulsory social security1,1779000
+Sep-06,Public admin & defence; compulsory social security1,1779000
+Dec-06,Public admin & defence; compulsory social security1,1784000
+Mar-07,Public admin & defence; compulsory social security1,1775000
+Jun-07,Public admin & defence; compulsory social security1,1777000
+Sep-07,Public admin & defence; compulsory social security1,1771000
+Dec-07,Public admin & defence; compulsory social security1,1771000
+Mar-08,Public admin & defence; compulsory social security1,1747000
+Jun-08,Public admin & defence; compulsory social security1,1742000
+Sep-08,Public admin & defence; compulsory social security1,1717000
+Dec-08,Public admin & defence; compulsory social security1,1749000
+Mar-09,Public admin & defence; compulsory social security1,1745000
+Jun-09,Public admin & defence; compulsory social security1,1757000
+Sep-09,Public admin & defence; compulsory social security1,1765000
+Dec-09,Public admin & defence; compulsory social security1,1766000
+Mar-10,Public admin & defence; compulsory social security1,1760000
+Jun-10,Public admin & defence; compulsory social security1,1739000
+Sep-10,Public admin & defence; compulsory social security1,1727000
+Dec-10,Public admin & defence; compulsory social security1,1704000
+Mar-11,Public admin & defence; compulsory social security1,1688000
+Jun-11,Public admin & defence; compulsory social security1,1637000
+Sep-11,Public admin & defence; compulsory social security1,1617000
+Dec-11,Public admin & defence; compulsory social security1,1596000
+Mar-12,Public admin & defence; compulsory social security1,1580000
+Jun-12,Public admin & defence; compulsory social security1,1578000
+Sep-12,Public admin & defence; compulsory social security1,1564000
+Dec-12,Public admin & defence; compulsory social security1,1560000
+Mar-13,Public admin & defence; compulsory social security1,1563000
+Jun-13,Public admin & defence; compulsory social security1,1561000
+Sep-13,Public admin & defence; compulsory social security1,1553000
+Dec-13,Public admin & defence; compulsory social security1,1539000
+Mar-14,Public admin & defence; compulsory social security1,1541000
+Jun-14,Public admin & defence; compulsory social security1,1541000
+Sep-14,Public admin & defence; compulsory social security1,1531000
+Dec-14,Public admin & defence; compulsory social security1,1518000
+Mar-15,Public admin & defence; compulsory social security1,1504000
+Jun-15,Public admin & defence; compulsory social security1,1491000
+Sep-15,Public admin & defence; compulsory social security1,1479000
+Dec-15,Public admin & defence; compulsory social security1,1477000
+Mar-16,Public admin & defence; compulsory social security1,1486000
+Jun-16,Public admin & defence; compulsory social security1,1479000
+Sep-16,Public admin & defence; compulsory social security1,1475000
+Dec-16,Public admin & defence; compulsory social security1,1469000
+Mar-17,Public admin & defence; compulsory social security1,1468000
+Jun-17,Public admin & defence; compulsory social security1,1486000
+Sep-17,Public admin & defence; compulsory social security1,1484000
+Dec-17,Public admin & defence; compulsory social security1,1481000
+Mar-18,Public admin & defence; compulsory social security1,1486000
+Jun-18,Public admin & defence; compulsory social security1,1492000
+Sep-18,Public admin & defence; compulsory social security1,1494000
+Dec-18,Public admin & defence; compulsory social security1,1505000
+Mar-19,Public admin & defence; compulsory social security1,1513000
+Jun-19,Public admin & defence; compulsory social security1,1511000
+Sep-19,Public admin & defence; compulsory social security1,1523000
+Dec-19,Public admin & defence; compulsory social security1,1532000
+Mar-20,Public admin & defence; compulsory social security1,1545000
+Jun-20,Public admin & defence; compulsory social security1,1559000
+Sep-20,Public admin & defence; compulsory social security1,1564000
+Dec-20,Public admin & defence; compulsory social security1,1587000
+Mar-21,Public admin & defence; compulsory social security1,1614000
+Jun-21,Public admin & defence; compulsory social security1,1612000
+Sep-21,Public admin & defence; compulsory social security1,1610000
+Dec-21,Public admin & defence; compulsory social security1,1619000
+Mar-97,Education,2066000
+Jun-97,Education,2070000
+Sep-97,Education,1987000
+Dec-97,Education,2058000
+Mar-98,Education,2077000
+Jun-98,Education,2041000
+Sep-98,Education,1996000
+Dec-98,Education,2096000
+Mar-99,Education,2124000
+Jun-99,Education,2124000
+Sep-99,Education,2116000
+Dec-99,Education,2213000
+Mar-00,Education,2233000
+Jun-00,Education,2228000
+Sep-00,Education,2222000
+Dec-00,Education,2255000
+Mar-01,Education,2255000
+Jun-01,Education,2235000
+Sep-01,Education,2199000
+Dec-01,Education,2248000
+Mar-02,Education,2273000
+Jun-02,Education,2292000
+Sep-02,Education,2296000
+Dec-02,Education,2359000
+Mar-03,Education,2385000
+Jun-03,Education,2396000
+Sep-03,Education,2381000
+Dec-03,Education,2463000
+Mar-04,Education,2490000
+Jun-04,Education,2486000
+Sep-04,Education,2455000
+Dec-04,Education,2503000
+Mar-05,Education,2520000
+Jun-05,Education,2519000
+Sep-05,Education,2518000
+Dec-05,Education,2580000
+Mar-06,Education,2603000
+Jun-06,Education,2594000
+Sep-06,Education,2554000
+Dec-06,Education,2596000
+Mar-07,Education,2603000
+Jun-07,Education,2602000
+Sep-07,Education,2555000
+Dec-07,Education,2606000
+Mar-08,Education,2619000
+Jun-08,Education,2612000
+Sep-08,Education,2586000
+Dec-08,Education,2681000
+Mar-09,Education,2751000
+Jun-09,Education,2724000
+Sep-09,Education,2698000
+Dec-09,Education,2754000
+Mar-10,Education,2773000
+Jun-10,Education,2774000
+Sep-10,Education,2734000
+Dec-10,Education,2743000
+Mar-11,Education,2787000
+Jun-11,Education,2754000
+Sep-11,Education,2731000
+Dec-11,Education,2763000
+Mar-12,Education,2822000
+Jun-12,Education,2774000
+Sep-12,Education,2749000
+Dec-12,Education,2770000
+Mar-13,Education,2803000
+Jun-13,Education,2823000
+Sep-13,Education,2821000
+Dec-13,Education,2868000
+Mar-14,Education,2893000
+Jun-14,Education,2892000
+Sep-14,Education,2859000
+Dec-14,Education,2908000
+Mar-15,Education,2950000
+Jun-15,Education,2959000
+Sep-15,Education,2931000
+Dec-15,Education,2975000
+Mar-16,Education,2974000
+Jun-16,Education,2969000
+Sep-16,Education,2934000
+Dec-16,Education,2974000
+Mar-17,Education,2955000
+Jun-17,Education,2932000
+Sep-17,Education,2904000
+Dec-17,Education,2918000
+Mar-18,Education,2953000
+Jun-18,Education,2946000
+Sep-18,Education,2911000
+Dec-18,Education,2949000
+Mar-19,Education,2967000
+Jun-19,Education,2948000
+Sep-19,Education,2925000
+Dec-19,Education,2962000
+Mar-20,Education,2981000
+Jun-20,Education,2987000
+Sep-20,Education,2945000
+Dec-20,Education,2951000
+Mar-21,Education,2957000
+Jun-21,Education,2953000
+Sep-21,Education,2928000
+Dec-21,Education,2984000
+Mar-97,Human health & social work activities,2933000
+Jun-97,Human health & social work activities,2936000
+Sep-97,Human health & social work activities,2947000
+Dec-97,Human health & social work activities,2927000
+Mar-98,Human health & social work activities,2926000
+Jun-98,Human health & social work activities,2915000
+Sep-98,Human health & social work activities,2905000
+Dec-98,Human health & social work activities,2949000
+Mar-99,Human health & social work activities,2967000
+Jun-99,Human health & social work activities,2932000
+Sep-99,Human health & social work activities,2978000
+Dec-99,Human health & social work activities,2986000
+Mar-00,Human health & social work activities,2981000
+Jun-00,Human health & social work activities,3038000
+Sep-00,Human health & social work activities,3106000
+Dec-00,Human health & social work activities,3071000
+Mar-01,Human health & social work activities,3074000
+Jun-01,Human health & social work activities,3118000
+Sep-01,Human health & social work activities,3169000
+Dec-01,Human health & social work activities,3173000
+Mar-02,Human health & social work activities,3169000
+Jun-02,Human health & social work activities,3192000
+Sep-02,Human health & social work activities,3245000
+Dec-02,Human health & social work activities,3235000
+Mar-03,Human health & social work activities,3256000
+Jun-03,Human health & social work activities,3293000
+Sep-03,Human health & social work activities,3337000
+Dec-03,Human health & social work activities,3343000
+Mar-04,Human health & social work activities,3374000
+Jun-04,Human health & social work activities,3399000
+Sep-04,Human health & social work activities,3450000
+Dec-04,Human health & social work activities,3469000
+Mar-05,Human health & social work activities,3500000
+Jun-05,Human health & social work activities,3529000
+Sep-05,Human health & social work activities,3550000
+Dec-05,Human health & social work activities,3566000
+Mar-06,Human health & social work activities,3592000
+Jun-06,Human health & social work activities,3615000
+Sep-06,Human health & social work activities,3627000
+Dec-06,Human health & social work activities,3622000
+Mar-07,Human health & social work activities,3632000
+Jun-07,Human health & social work activities,3603000
+Sep-07,Human health & social work activities,3616000
+Dec-07,Human health & social work activities,3623000
+Mar-08,Human health & social work activities,3655000
+Jun-08,Human health & social work activities,3693000
+Sep-08,Human health & social work activities,3731000
+Dec-08,Human health & social work activities,3757000
+Mar-09,Human health & social work activities,3759000
+Jun-09,Human health & social work activities,3798000
+Sep-09,Human health & social work activities,3860000
+Dec-09,Human health & social work activities,3862000
+Mar-10,Human health & social work activities,3936000
+Jun-10,Human health & social work activities,3938000
+Sep-10,Human health & social work activities,3951000
+Dec-10,Human health & social work activities,4005000
+Mar-11,Human health & social work activities,4014000
+Jun-11,Human health & social work activities,3994000
+Sep-11,Human health & social work activities,3999000
+Dec-11,Human health & social work activities,3996000
+Mar-12,Human health & social work activities,4046000
+Jun-12,Human health & social work activities,3999000
+Sep-12,Human health & social work activities,4019000
+Dec-12,Human health & social work activities,4047000
+Mar-13,Human health & social work activities,4129000
+Jun-13,Human health & social work activities,4100000
+Sep-13,Human health & social work activities,4114000
+Dec-13,Human health & social work activities,4125000
+Mar-14,Human health & social work activities,4204000
+Jun-14,Human health & social work activities,4205000
+Sep-14,Human health & social work activities,4222000
+Dec-14,Human health & social work activities,4215000
+Mar-15,Human health & social work activities,4231000
+Jun-15,Human health & social work activities,4244000
+Sep-15,Human health & social work activities,4221000
+Dec-15,Human health & social work activities,4224000
+Mar-16,Human health & social work activities,4292000
+Jun-16,Human health & social work activities,4288000
+Sep-16,Human health & social work activities,4270000
+Dec-16,Human health & social work activities,4276000
+Mar-17,Human health & social work activities,4342000
+Jun-17,Human health & social work activities,4363000
+Sep-17,Human health & social work activities,4328000
+Dec-17,Human health & social work activities,4356000
+Mar-18,Human health & social work activities,4361000
+Jun-18,Human health & social work activities,4335000
+Sep-18,Human health & social work activities,4348000
+Dec-18,Human health & social work activities,4343000
+Mar-19,Human health & social work activities,4383000
+Jun-19,Human health & social work activities,4415000
+Sep-19,Human health & social work activities,4425000
+Dec-19,Human health & social work activities,4433000
+Mar-20,Human health & social work activities,4456000
+Jun-20,Human health & social work activities,4493000
+Sep-20,Human health & social work activities,4456000
+Dec-20,Human health & social work activities,4494000
+Mar-21,Human health & social work activities,4567000
+Jun-21,Human health & social work activities,4584000
+Sep-21,Human health & social work activities,4585000
+Dec-21,Human health & social work activities,4572000
+Mar-97,"Arts, entertainment & recreation",659000
+Jun-97,"Arts, entertainment & recreation",686000
+Sep-97,"Arts, entertainment & recreation",695000
+Dec-97,"Arts, entertainment & recreation",683000
+Mar-98,"Arts, entertainment & recreation",659000
+Jun-98,"Arts, entertainment & recreation",649000
+Sep-98,"Arts, entertainment & recreation",663000
+Dec-98,"Arts, entertainment & recreation",667000
+Mar-99,"Arts, entertainment & recreation",682000
+Jun-99,"Arts, entertainment & recreation",716000
+Sep-99,"Arts, entertainment & recreation",741000
+Dec-99,"Arts, entertainment & recreation",733000
+Mar-00,"Arts, entertainment & recreation",738000
+Jun-00,"Arts, entertainment & recreation",746000
+Sep-00,"Arts, entertainment & recreation",744000
+Dec-00,"Arts, entertainment & recreation",739000
+Mar-01,"Arts, entertainment & recreation",745000
+Jun-01,"Arts, entertainment & recreation",755000
+Sep-01,"Arts, entertainment & recreation",780000
+Dec-01,"Arts, entertainment & recreation",770000
+Mar-02,"Arts, entertainment & recreation",773000
+Jun-02,"Arts, entertainment & recreation",798000
+Sep-02,"Arts, entertainment & recreation",799000
+Dec-02,"Arts, entertainment & recreation",774000
+Mar-03,"Arts, entertainment & recreation",783000
+Jun-03,"Arts, entertainment & recreation",798000
+Sep-03,"Arts, entertainment & recreation",817000
+Dec-03,"Arts, entertainment & recreation",814000
+Mar-04,"Arts, entertainment & recreation",811000
+Jun-04,"Arts, entertainment & recreation",829000
+Sep-04,"Arts, entertainment & recreation",814000
+Dec-04,"Arts, entertainment & recreation",809000
+Mar-05,"Arts, entertainment & recreation",815000
+Jun-05,"Arts, entertainment & recreation",856000
+Sep-05,"Arts, entertainment & recreation",855000
+Dec-05,"Arts, entertainment & recreation",850000
+Mar-06,"Arts, entertainment & recreation",852000
+Jun-06,"Arts, entertainment & recreation",888000
+Sep-06,"Arts, entertainment & recreation",905000
+Dec-06,"Arts, entertainment & recreation",865000
+Mar-07,"Arts, entertainment & recreation",851000
+Jun-07,"Arts, entertainment & recreation",871000
+Sep-07,"Arts, entertainment & recreation",877000
+Dec-07,"Arts, entertainment & recreation",857000
+Mar-08,"Arts, entertainment & recreation",872000
+Jun-08,"Arts, entertainment & recreation",903000
+Sep-08,"Arts, entertainment & recreation",894000
+Dec-08,"Arts, entertainment & recreation",885000
+Mar-09,"Arts, entertainment & recreation",835000
+Jun-09,"Arts, entertainment & recreation",849000
+Sep-09,"Arts, entertainment & recreation",846000
+Dec-09,"Arts, entertainment & recreation",811000
+Mar-10,"Arts, entertainment & recreation",838000
+Jun-10,"Arts, entertainment & recreation",862000
+Sep-10,"Arts, entertainment & recreation",884000
+Dec-10,"Arts, entertainment & recreation",876000
+Mar-11,"Arts, entertainment & recreation",874000
+Jun-11,"Arts, entertainment & recreation",878000
+Sep-11,"Arts, entertainment & recreation",882000
+Dec-11,"Arts, entertainment & recreation",872000
+Mar-12,"Arts, entertainment & recreation",901000
+Jun-12,"Arts, entertainment & recreation",902000
+Sep-12,"Arts, entertainment & recreation",918000
+Dec-12,"Arts, entertainment & recreation",891000
+Mar-13,"Arts, entertainment & recreation",901000
+Jun-13,"Arts, entertainment & recreation",914000
+Sep-13,"Arts, entertainment & recreation",920000
+Dec-13,"Arts, entertainment & recreation",911000
+Mar-14,"Arts, entertainment & recreation",943000
+Jun-14,"Arts, entertainment & recreation",951000
+Sep-14,"Arts, entertainment & recreation",975000
+Dec-14,"Arts, entertainment & recreation",935000
+Mar-15,"Arts, entertainment & recreation",954000
+Jun-15,"Arts, entertainment & recreation",993000
+Sep-15,"Arts, entertainment & recreation",988000
+Dec-15,"Arts, entertainment & recreation",973000
+Mar-16,"Arts, entertainment & recreation",963000
+Jun-16,"Arts, entertainment & recreation",968000
+Sep-16,"Arts, entertainment & recreation",1014000
+Dec-16,"Arts, entertainment & recreation",1016000
+Mar-17,"Arts, entertainment & recreation",1012000
+Jun-17,"Arts, entertainment & recreation",992000
+Sep-17,"Arts, entertainment & recreation",1048000
+Dec-17,"Arts, entertainment & recreation",1009000
+Mar-18,"Arts, entertainment & recreation",1004000
+Jun-18,"Arts, entertainment & recreation",1009000
+Sep-18,"Arts, entertainment & recreation",1007000
+Dec-18,"Arts, entertainment & recreation",1010000
+Mar-19,"Arts, entertainment & recreation",1032000
+Jun-19,"Arts, entertainment & recreation",1032000
+Sep-19,"Arts, entertainment & recreation",1048000
+Dec-19,"Arts, entertainment & recreation",1043000
+Mar-20,"Arts, entertainment & recreation",1038000
+Jun-20,"Arts, entertainment & recreation",1002000
+Sep-20,"Arts, entertainment & recreation",941000
+Dec-20,"Arts, entertainment & recreation",903000
+Mar-21,"Arts, entertainment & recreation",879000
+Jun-21,"Arts, entertainment & recreation",950000
+Sep-21,"Arts, entertainment & recreation",972000
+Dec-21,"Arts, entertainment & recreation",970000
